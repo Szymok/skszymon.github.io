@@ -8,3 +8,11 @@ giscus_comments: true
 related_posts: false
 ---
 This post shows how to add GISCUS comments. You can also use GISCUS comments, which are more privacy-friendly. See the [GISCUS comments post] for more information.
+
+#### Hipster list
+<ul>
+    <li>brunch</li>
+    <li>fixie</li>
+    <li>raybans</li>
+    <li>messenger bag</li>
+</ul>
