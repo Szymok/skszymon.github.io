@@ -6,6 +6,7 @@ description: Artykuł przedstawia zalety i wady wykorzystywania sztucznej inteli
 tags: sztuczna-inteligencja generowanie-tekstu technologie-jezykowe przyszłosc-mediow etyka-regulacje
 categories: article
 giscus_comments: true
+related_posts: true
 ---
 
 {% include figure.html path="assets/img/kaitlyn-baker-vZJdYl5JVXY-unsplash.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
