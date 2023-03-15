@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Wykorzystywanie AI w pisaniu artykułów
-date:   2023-03-13 00:10:00
+title: Wykorzystywanie AI w pisaniu artykułów
+date: 2023-03-13 00:10:00
 description: Artykuł przedstawia zalety i wady wykorzystywania sztucznej inteligencji (AI) w pisaniu artykułów
 tags: sztuczna-inteligencja generowanie-tekstu technologie-jezykowe przyszłosc-mediow etyka-regulacje
 categories: article
@@ -86,4 +86,3 @@ Podsumowując, AI w pisaniu jest potężnym i obiecującym narzędziem, które m
 <li> Badanie sposobów poprawy współpracy i interakcji między ludźmi a AI w procesie pisania oraz roli ludzkiej kreatywności i kontroli nad treścią.</li>
 <li> Badanie sposobów wykorzystania AI do promowania różnorodności, inkluzywności i sprawiedliwości w treściach oraz do zwalczania uprzedzeń, stereotypów i dyskryminacji.</li>
 </ul>
-<hr>
