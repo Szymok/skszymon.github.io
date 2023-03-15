@@ -7,7 +7,6 @@ tags: sztuczna-inteligencja generowanie-tekstu technologie-jezykowe przyszłosc-
 categories: article
 giscus_comments: true
 ---
-
 {% include figure.html path="assets/img/kaitlyn-baker-vZJdYl5JVXY-unsplash.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
 <div class="caption">
     Pisanie artykułów, które są napędzane przez AI, jest coraz bardziej popularne.  
