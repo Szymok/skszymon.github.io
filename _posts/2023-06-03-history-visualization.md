@@ -9,10 +9,12 @@ giscus_comments: true
 toc:
   sidebar: left
 ---
+
 {% include figure.html path="assets/img/_57a734ed-7c49-412d-8d09-28fb09a7bd31.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
 <div class="caption">
     Historia wizualizacji danych w pigułce 
 </div>
+
 
 ## Historia wizualizacji danych
 
