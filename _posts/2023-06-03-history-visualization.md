@@ -9,13 +9,6 @@ giscus_comments: true
 toc:
   sidebar: left
 ---
-
-{% include figure.html path="assets/img/_57a734ed-7c49-412d-8d09-28fb09a7bd31.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-<div class="caption">
-    Historia wizualizacji danych w pigułce 
-</div>
-
-
 ## Historia wizualizacji danych
 
 Wizualizacja danych ma długą i fascynującą historię, sięgającą głęboko w przeszłość. Od prymitywnych malowideł naskalnych po dzisiejsze zaawansowane narzędzia komputerowe, wizualizacja danych odegrała znaczącą rolę w rozwijaniu naszego zrozumienia informacji i przedstawianiu jej w sposób zarówno atrakcyjny, jak i efektywny. W pierwszym rozdziale tej książki przyjrzymy się początkom wizualizacji danych i dowiemy się, jak nasza zdolność do przedstawiania informacji wizualnie ewoluowała na przestrzeni wieków.
