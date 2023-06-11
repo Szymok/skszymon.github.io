@@ -2,7 +2,7 @@
 layout: post
 title: Historia, trendy i przyszłość wizualizacji danych (część 1)
 date: 2023-06-11 11:59:00
-description: artykul skupiajacy sie na historii wizualizacji danych
+description: Pierwsza część artykułu, który skupia sie na historii wizualizacji danych
 tags: analiza-danych narzedzia historia wizualizacje visualization edukacja 
 categories: article
 giscus_comments: true
