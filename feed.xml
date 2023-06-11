@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://szymok.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://szymok.github.io/" rel="alternate" type="text/html" hreflang="pl" /><updated>2023-06-11T20:52:15+00:00</updated><id>https://szymok.github.io/feed.xml</id><title type="html">blank</title><subtitle>Blog o analizie danych i sztucznej inteligencji. To dwa kluczowe narzędzia wspierające decyzje biznesowe i pozwalające na uzyskanie przewagi konkurencyjnej.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://szymok.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://szymok.github.io/" rel="alternate" type="text/html" hreflang="pl" /><updated>2023-06-11T21:08:07+00:00</updated><id>https://szymok.github.io/feed.xml</id><title type="html">blank</title><subtitle>Blog o analizie danych i sztucznej inteligencji. To dwa kluczowe narzędzia wspierające decyzje biznesowe i pozwalające na uzyskanie przewagi konkurencyjnej.
 </subtitle><entry><title type="html">Historia, trendy i przyszłość wizualizacji danych (część 1)</title><link href="https://szymok.github.io/blog/2023/history-visualization/" rel="alternate" type="text/html" title="Historia, trendy i przyszłość wizualizacji danych (część 1)" /><published>2023-06-11T11:59:00+00:00</published><updated>2023-06-11T11:59:00+00:00</updated><id>https://szymok.github.io/blog/2023/history-visualization</id><content type="html" xml:base="https://szymok.github.io/blog/2023/history-visualization/"><![CDATA[<figure>
 
   <picture>
@@ -97,6 +97,8 @@
 
 <h2 id="wizualizacja-danych-w-służbie-zdrowia">Wizualizacja danych w służbie zdrowia</h2>
 
+<p>Wizualizacja danych jest obecnie szeroko stosowana w wielu dziedzinach, ale jedną z najbardziej obiecujących jest służba zdrowia. Wizualizacja danych może pomóc w analizie i interpretacji danych medycznych, co może prowadzić do lepszych decyzji klinicznych i poprawy opieki zdrowotnej.</p>
+
 <h3 id="florence-nightingale">Florence Nightingale</h3>
 
 <p>Najbardziej znane osiągnięcie Nightingale w dziedzinie wizualizacji danych to jej “diagram kołowy” (polar area diagram), który często nazywany jest “diagramem różycy”. Użyła go do ilustracji, jakie były przyczyny zgonów wśród żołnierzy podczas Wojny Krymskiej.</p>
@@ -191,6 +193,8 @@
 <p>Dzięki temu wykresowi mamy szczegółowy obraz tego, co zaszło w bitwie. Jeżeli przeanalizujesz wykres, łatwiej będzie zrozumieć i “zwizualizować” liczby niż na podstawie tekstu. Wyjaśnienie tekstowe utrudnia zrozumienie liczb w odpowiedniej kolejności wielkości. Spoglądając na wykres, możemy lepiej zrozumieć katastrofę, jaką była ta bitwa.</p>
 
 <h2 id="początki-współczesnej-wizualizacji-danych">Początki współczesnej wizualizacji danych</h2>
+
+<p>Wizualizacja danych zaczęła się rozwijać wraz z rozwojem technologii komputerowych. W latach 60. XX wieku pojawiły się pierwsze komputery, które umożliwiły przetwarzanie i wizualizację dużych zbiorów danych. W tym samym czasie pojawiły się pierwsze narzędzia do wizualizacji danych, takie jak systemy graficzne, które umożliwiły użytkownikom tworzenie wykresów i diagramów bez konieczności pisania kodu.</p>
 <h3 id="herman-hollerith-maszyna-do-przetwarzania-danych">Herman Hollerith: Maszyna do przetwarzania danych</h3>
 
 <figure>
