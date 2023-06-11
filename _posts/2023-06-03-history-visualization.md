@@ -9,7 +9,7 @@ giscus_comments: true
 toc:
   - sidebar: left
 ---
-{% include figure.html path="assets/img/ai-trends.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.html path="assets/img/_57a734ed-7c49-412d-8d09-28fb09a7bd31.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
 <div class="caption">
     Historia wizualizacji danych w pigułce? 
 </div>
@@ -174,3 +174,13 @@ Shneiderman jest twórcą koncepcji "direct manipulation", czyli bezpośredniej 
 Jego publikacja "The Eyes Have It: A Task by Data Type Taxonomy for Information Visualizations" jest fundamentalnym dziełem w tej dziedzinie. W tej pracy, Shneiderman wprowadził koncepcję "Mantra Wizualizacji", składającą się z czterech zasad: "Przeglądaj pierwszy, zoom i filtruj, następnie szczegół na życzenie". Ta koncepcja jest do dzisiaj stosowana w projektowaniu interaktywnych wizualizacji danych.
 
 Shneiderman miał ogromny wpływ na rozwój interaktywnych wizualizacji danych, a jego koncepcje nadal są stosowane w nowoczesnym projektowaniu UX/UI. Dzięki jego wkładowi, dzisiaj możemy korzystać z narzędzi, które umożliwiają łatwe i intuicyjne poruszanie się po skomplikowanych zestawach danych. Jego prace są nieocenionym źródłem wiedzy dla każdego, kto interesuje się wizualizacją danych.
+
+# Podsumowanie
+
+Podsumowując, historia wizualizacji danych to niezwykle interesujące i dynamiczne pole, które od starożytności do współczesności przeszło przez wiele faz ewolucji. Od prostych reprezentacji w formie map i wykresów, przez innowacyjne prace Minarda, aż do wynalazku maszyn do przetwarzania danych przez Holleritha, wizualizacja danych zawsze była nieodzownym elementem nauki i biznesu.
+
+XX wiek to era ekspansji w dziedzinie wizualizacji danych, kiedy to tacy giganci jak Tukey, Tufte i Bertin zdefiniowali podstawy tej dziedziny. Z biegiem lat, z nadejściem komputerów, możliwości wizualizacji danych znacznie się poszerzyły, czemu przyczyniły się także prace Shneidermana.
+
+Obecnie, w dobie cyfryzacji i rosnącej ilości dostępnych danych, wizualizacja danych odgrywa kluczową rolę w wielu dziedzinach życia. Służy do przekazywania skomplikowanych informacji w przystępnej formie, pomaga w podejmowaniu decyzji i jest nieodzowna w świecie nauki, technologii i biznesu.
+
+Oczekuje się, że przyszłość przyniesie jeszcze więcej innowacji w dziedzinie wizualizacji danych, a jej znaczenie będzie dalej rosnąć. Jak pokazuje historia, potencjał tej dziedziny jest nieograniczony, a nasza zdolność do wykorzystania danych w celu zrozumienia świata wciąż się rozwija.
