@@ -93,7 +93,7 @@ Praca Snowa pomogła zmienić podejście do zdrowia publicznego i zrozumieć, ja
     Źródło: <a href="https://wellcomecollection.org/works/yp5q3q3n">Wellcome Collection</a>
 </div>
 
-### Charles Minard: Wizualizacja danych wojennych
+## Charles Minard: Wizualizacja danych wojennych
 
 Charles Minard, francuski inżynier i ekonomista, jest sławny z powodu swojej niezwykłej umiejętności prezentowania skomplikowanych danych w prosty i zrozumiały sposób. Minard jest najbardziej znany z wyjątkowego diagramu przedstawiającego katastrofalną kampanię Napoleona w Rosji w 1812 roku. Ta innowacyjna wizualizacja, często uważana za "najlepszy wykres statystyczny wszech czasów", jednocześnie ilustruje sześć różnych zmiennych: liczbę wojsk, odległość, temperaturę, datę, kierunek ruchu i lokalizację.
 
@@ -110,6 +110,7 @@ Ten mapa pokazuje ruch wojsk podczas kampanii rosyjskiej. Liczba żołnierzy, kt
 
 Dzięki temu wykresowi mamy szczegółowy obraz tego, co zaszło w bitwie. Jeżeli przeanalizujesz wykres, łatwiej będzie zrozumieć i "zwizualizować" liczby niż na podstawie tekstu. Wyjaśnienie tekstowe utrudnia zrozumienie liczb w odpowiedniej kolejności wielkości. Spoglądając na wykres, możemy lepiej zrozumieć katastrofę, jaką była ta bitwa.
 
+## Początki współczesnej wizualizacji danych
 ### Herman Hollerith: Maszyna do przetwarzania danych
 
 {% include figure.html path="assets/img/R (1).jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
