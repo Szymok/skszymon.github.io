@@ -1,25 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://szymok.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://szymok.github.io/" rel="alternate" type="text/html" hreflang="pl" /><updated>2023-06-11T21:20:20+00:00</updated><id>https://szymok.github.io/feed.xml</id><title type="html">blank</title><subtitle>Blog o analizie danych i sztucznej inteligencji. To dwa kluczowe narzędzia wspierające decyzje biznesowe i pozwalające na uzyskanie przewagi konkurencyjnej.
-</subtitle><entry><title type="html">Historia, trendy i przyszłość wizualizacji danych (część 1)</title><link href="https://szymok.github.io/blog/2023/history-visualization/" rel="alternate" type="text/html" title="Historia, trendy i przyszłość wizualizacji danych (część 1)" /><published>2023-06-11T11:59:00+00:00</published><updated>2023-06-11T11:59:00+00:00</updated><id>https://szymok.github.io/blog/2023/history-visualization</id><content type="html" xml:base="https://szymok.github.io/blog/2023/history-visualization/"><![CDATA[<figure>
-
-  <picture>
-    
-    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/_57a734ed-7c49-412d-8d09-28fb09a7bd31-480.webp" />
-    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/_57a734ed-7c49-412d-8d09-28fb09a7bd31-800.webp" />
-    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/_57a734ed-7c49-412d-8d09-28fb09a7bd31-1400.webp" />
-    
-
-    <!-- Fallback to the original file -->
-    <img src="/assets/img/_57a734ed-7c49-412d-8d09-28fb09a7bd31.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
-
-  </picture>
-
-</figure>
-
-<div class="caption">
-    Historia wizualizacji danych w pigułce 
-</div>
-
-<h2 id="historia-wizualizacji-danych">Historia wizualizacji danych</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://szymok.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://szymok.github.io/" rel="alternate" type="text/html" hreflang="pl" /><updated>2023-06-11T21:33:13+00:00</updated><id>https://szymok.github.io/feed.xml</id><title type="html">blank</title><subtitle>Blog o analizie danych i sztucznej inteligencji. To dwa kluczowe narzędzia wspierające decyzje biznesowe i pozwalające na uzyskanie przewagi konkurencyjnej.
+</subtitle><entry><title type="html">Historia, trendy i przyszłość wizualizacji danych (część 1)</title><link href="https://szymok.github.io/blog/2023/history-visualization/" rel="alternate" type="text/html" title="Historia, trendy i przyszłość wizualizacji danych (część 1)" /><published>2023-06-11T11:59:00+00:00</published><updated>2023-06-11T11:59:00+00:00</updated><id>https://szymok.github.io/blog/2023/history-visualization</id><content type="html" xml:base="https://szymok.github.io/blog/2023/history-visualization/"><![CDATA[<h2 id="historia-wizualizacji-danych">Historia wizualizacji danych</h2>
 
 <p>Wizualizacja danych ma długą i fascynującą historię, sięgającą głęboko w przeszłość. Od prymitywnych malowideł naskalnych po dzisiejsze zaawansowane narzędzia komputerowe, wizualizacja danych odegrała znaczącą rolę w rozwijaniu naszego zrozumienia informacji i przedstawianiu jej w sposób zarówno atrakcyjny, jak i efektywny. W pierwszym rozdziale tej książki przyjrzymy się początkom wizualizacji danych i dowiemy się, jak nasza zdolność do przedstawiania informacji wizualnie ewoluowała na przestrzeni wieków.</p>
 
