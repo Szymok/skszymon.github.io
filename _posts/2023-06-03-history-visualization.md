@@ -62,6 +62,8 @@ Poniżej znajduje się kilka przykładów wykresów, które Playfair stworzył w
 
 ## Wizualizacja danych w służbie zdrowia
 
+Wizualizacja danych jest obecnie szeroko stosowana w wielu dziedzinach, ale jedną z najbardziej obiecujących jest służba zdrowia. Wizualizacja danych może pomóc w analizie i interpretacji danych medycznych, co może prowadzić do lepszych decyzji klinicznych i poprawy opieki zdrowotnej.
+
 ### Florence Nightingale
 
 Najbardziej znane osiągnięcie Nightingale w dziedzinie wizualizacji danych to jej "diagram kołowy" (polar area diagram), który często nazywany jest "diagramem różycy". Użyła go do ilustracji, jakie były przyczyny zgonów wśród żołnierzy podczas Wojny Krymskiej.
@@ -111,6 +113,8 @@ Ten mapa pokazuje ruch wojsk podczas kampanii rosyjskiej. Liczba żołnierzy, kt
 Dzięki temu wykresowi mamy szczegółowy obraz tego, co zaszło w bitwie. Jeżeli przeanalizujesz wykres, łatwiej będzie zrozumieć i "zwizualizować" liczby niż na podstawie tekstu. Wyjaśnienie tekstowe utrudnia zrozumienie liczb w odpowiedniej kolejności wielkości. Spoglądając na wykres, możemy lepiej zrozumieć katastrofę, jaką była ta bitwa.
 
 ## Początki współczesnej wizualizacji danych
+
+Wizualizacja danych zaczęła się rozwijać wraz z rozwojem technologii komputerowych. W latach 60. XX wieku pojawiły się pierwsze komputery, które umożliwiły przetwarzanie i wizualizację dużych zbiorów danych. W tym samym czasie pojawiły się pierwsze narzędzia do wizualizacji danych, takie jak systemy graficzne, które umożliwiły użytkownikom tworzenie wykresów i diagramów bez konieczności pisania kodu.
 ### Herman Hollerith: Maszyna do przetwarzania danych
 
 {% include figure.html path="assets/img/R (1).jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
