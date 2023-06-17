@@ -13,17 +13,21 @@ toc:
     #   - name: Example Child Subsection 1
     #   - name: Example Child Subsection 2
   - name: Początki wizualizacji danych
+    subsections:
         - name: William Playfair - Ojciec współczesnej wizualizacji danych
   - name: Wizualizacja danych w służbie zdrowia
+    subsections:
         - name: Florence Nightingale
         - name: John Snow
   - name: Charles Minard - Wizualizacja danych wojennych
   - name: Początki współczesnej wizualizacji danych
+    subsections:
         - name: Herman Hollerith - Maszyna do przetwarzania danych
         - name: John Tukey - Ojciec eksploracyjnej analizy danych
         - name: Edward Tufte - Wizualizacja danych w XX wieku
         - name: Jacques Bertin - Semiotyka wizualizacji danych
   - name: Początek ery komputerowej wizualizacji danych (koniec lat 60. XX wieku)
+    subsections:
         - name: Ben Shneiderman - Interaktywna wizualizacji danych
   - name: Podsumowanie
 

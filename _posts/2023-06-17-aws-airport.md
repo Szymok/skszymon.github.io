@@ -7,7 +7,7 @@ tags: analiza-danych aws amazon s3 lambda airport lotnisko technologia ai machin
 categories: article
 giscus_comments: true
 toc:
-  sidebar: left
+  - name: Wstęp
 ---
 
 ## Wstęp
