@@ -1,13 +1,32 @@
 ---
 layout: post
-title: Historia, trendy i przyszłość wizualizacji danych (część 1)
+title: Historia wizualizacji danych
 date: 2023-06-11 11:59:00
 description: Pierwsza część artykułu, który skupia sie na historii wizualizacji danych
 tags: analiza-danych narzedzia historia wizualizacje visualization edukacja 
 categories: article
 giscus_comments: true
 toc:
-  sidebar: left
+  - name: Historia wizualizacji danych
+    # if a section has subsections, you can add them as follows:
+    # subsections:
+    #   - name: Example Child Subsection 1
+    #   - name: Example Child Subsection 2
+  - name: Początki wizualizacji danych
+        - name: William Playfair - Ojciec współczesnej wizualizacji danych
+  - name: Wizualizacja danych w służbie zdrowia
+        - name: Florence Nightingale
+        - name: John Snow
+  - name: Charles Minard - Wizualizacja danych wojennych
+  - name: Początki współczesnej wizualizacji danych
+        - name: Herman Hollerith - Maszyna do przetwarzania danych
+        - name: John Tukey - Ojciec eksploracyjnej analizy danych
+        - name: Edward Tufte - Wizualizacja danych w XX wieku
+        - name: Jacques Bertin - Semiotyka wizualizacji danych
+  - name: Początek ery komputerowej wizualizacji danych (koniec lat 60. XX wieku)
+        - name: Ben Shneiderman - Interaktywna wizualizacji danych
+  - name: Podsumowanie
+
 ---
 ## Historia wizualizacji danych
 
