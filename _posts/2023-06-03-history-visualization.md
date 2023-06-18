@@ -107,7 +107,7 @@ Praca Snowa pomogła zmienić podejście do zdrowia publicznego i zrozumieć, ja
 
 ***
 
-### Charles Minard: Wizualizacja danych wojennych
+## Charles Minard: Wizualizacja danych wojennych
 
 Charles Minard, francuski inżynier i ekonomista, jest sławny z powodu swojej niezwykłej umiejętności prezentowania skomplikowanych danych w prosty i zrozumiały sposób. Minard jest najbardziej znany z wyjątkowego diagramu przedstawiającego katastrofalną kampanię Napoleona w Rosji w 1812 roku. Ta innowacyjna wizualizacja, często uważana za "najlepszy wykres statystyczny wszech czasów", jednocześnie ilustruje sześć różnych zmiennych: liczbę wojsk, odległość, temperaturę, datę, kierunek ruchu i lokalizację.
 
