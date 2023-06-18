@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://szymok.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://szymok.github.io/" rel="alternate" type="text/html" hreflang="pl" /><updated>2023-06-18T12:34:19+00:00</updated><id>https://szymok.github.io/feed.xml</id><title type="html">blank</title><subtitle>Blog o analizie danych i sztucznej inteligencji. To dwa kluczowe narzędzia wspierające decyzje biznesowe i pozwalające na uzyskanie przewagi konkurencyjnej.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://szymok.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://szymok.github.io/" rel="alternate" type="text/html" hreflang="pl" /><updated>2023-06-18T12:46:17+00:00</updated><id>https://szymok.github.io/feed.xml</id><title type="html">blank</title><subtitle>Blog o analizie danych i sztucznej inteligencji. To dwa kluczowe narzędzia wspierające decyzje biznesowe i pozwalające na uzyskanie przewagi konkurencyjnej.
 </subtitle><entry><title type="html">Historia wizualizacji danych</title><link href="https://szymok.github.io/blog/2023/history-visualization/" rel="alternate" type="text/html" title="Historia wizualizacji danych" /><published>2023-06-11T11:59:00+00:00</published><updated>2023-06-11T11:59:00+00:00</updated><id>https://szymok.github.io/blog/2023/history-visualization</id><content type="html" xml:base="https://szymok.github.io/blog/2023/history-visualization/"><![CDATA[<h2 id="historia-wizualizacji-danych">Historia wizualizacji danych</h2>
 
 <p>Wizualizacja danych ma długą i fascynującą historię, sięgającą głęboko w przeszłość. Od prymitywnych malowideł naskalnych po dzisiejsze zaawansowane narzędzia komputerowe, wizualizacja danych odegrała znaczącą rolę w rozwijaniu naszego zrozumienia informacji i przedstawianiu jej w sposób zarówno atrakcyjny, jak i efektywny. W pierwszym rozdziale tej książki przyjrzymy się początkom wizualizacji danych i dowiemy się, jak nasza zdolność do przedstawiania informacji wizualnie ewoluowała na przestrzeni wieków.</p>
@@ -29,7 +29,7 @@
 
 <hr />
 
-<h2 id="william-playfair---ojciec-współczesnej-wizualizacji-danych">William Playfair - Ojciec współczesnej wizualizacji danych</h2>
+<h3 id="william-playfair-ojciec-współczesnej-wizualizacji-danych">William Playfair: Ojciec współczesnej wizualizacji danych</h3>
 
 <p>Playfair, szkocki ekonomista i inżynier, to postać, której nie da się pominąć, mówiąc o historii wizualizacji danych. To on w XVIII wieku wprowadził wykresy liniowe, słupkowe i kołowe jako narzędzia do prezentacji danych statystycznych.</p>
 
@@ -87,7 +87,7 @@
 
 <hr />
 
-<h2 id="florence-nightingale">Florence Nightingale</h2>
+<h3 id="florence-nightingale">Florence Nightingale</h3>
 
 <p>Najbardziej znane osiągnięcie Nightingale w dziedzinie wizualizacji danych to jej “diagram kołowy” (polar area diagram), który często nazywany jest “diagramem różycy”. Użyła go do ilustracji, jakie były przyczyny zgonów wśród żołnierzy podczas Wojny Krymskiej.</p>
 
@@ -121,7 +121,7 @@
 
 <hr />
 
-<h2 id="john-snow">John Snow</h2>
+<h3 id="john-snow">John Snow</h3>
 
 <p>John Snow, angielski lekarz, jest znany z tego, że jako pierwszy zastosował wizualizację danych do badania epidemiologii. W 1854 roku, podczas epidemii cholery w Londynie, Snow stworzył mapę, która przedstawiała lokalizację przypadków zachorowań na cholerę w dzielnicy Soho.</p>
 
@@ -152,7 +152,7 @@
 
 <hr />
 
-<h2 id="charles-minard---wizualizacja-danych-wojennych">Charles Minard - Wizualizacja danych wojennych</h2>
+<h3 id="charles-minard-wizualizacja-danych-wojennych">Charles Minard: Wizualizacja danych wojennych</h3>
 
 <p>Charles Minard, francuski inżynier i ekonomista, jest sławny z powodu swojej niezwykłej umiejętności prezentowania skomplikowanych danych w prosty i zrozumiały sposób. Minard jest najbardziej znany z wyjątkowego diagramu przedstawiającego katastrofalną kampanię Napoleona w Rosji w 1812 roku. Ta innowacyjna wizualizacja, często uważana za “najlepszy wykres statystyczny wszech czasów”, jednocześnie ilustruje sześć różnych zmiennych: liczbę wojsk, odległość, temperaturę, datę, kierunek ruchu i lokalizację.</p>
 
@@ -192,7 +192,7 @@
 
 <hr />
 
-<h2 id="herman-hollerith---maszyna-do-przetwarzania-danych">Herman Hollerith - Maszyna do przetwarzania danych</h2>
+<h3 id="herman-hollerith-maszyna-do-przetwarzania-danych">Herman Hollerith: Maszyna do przetwarzania danych</h3>
 
 <figure>
 
@@ -222,7 +222,7 @@
 
 <hr />
 
-<h2 id="john-tukey---ojciec-eksploracyjnej-analizy-danych">John Tukey - Ojciec eksploracyjnej analizy danych</h2>
+<h3 id="john-tukey-ojciec-eksploracyjnej-analizy-danych">John Tukey: Ojciec eksploracyjnej analizy danych</h3>
 
 <p>John Tukey, wybitny amerykański matematyk i statystyk, jest powszechnie uznawany za “ojca eksploracyjnej analizy danych” (EDA - Exploratory Data Analysis). EDA to podejście do analizy danych, które polega na eksploracji i wizualizacji danych przed formalnym testowaniem statystycznym, pozwalając na zrozumienie ich struktury, wykrycie anomalii, sprawdzenie założeń czy identyfikację potencjalnych modeli.</p>
 
@@ -234,7 +234,7 @@
 
 <hr />
 
-<h2 id="edward-tufte---wizualizacja-danych-w-xx-wieku">Edward Tufte - Wizualizacja danych w XX wieku</h2>
+<h3 id="edward-tufte-wizualizacja-danych-w-xx-wieku">Edward Tufte: Wizualizacja danych w XX wieku</h3>
 
 <p>Edward Tufte, amerykański teoretyk informacji, jest niezaprzeczalnie jednym z najbardziej wpływowych pionierów w dziedzinie wizualizacji danych w XX wieku. Zasłynął z tworzenia szczegółowych zasad dotyczących efektywnej prezentacji danych statystycznych, które znalazły odzwierciedlenie w jego licznych publikacjach.</p>
 
@@ -246,7 +246,7 @@
 
 <hr />
 
-<h2 id="jacques-bertin---semiotyka-wizualizacji-danych">Jacques Bertin - Semiotyka wizualizacji danych</h2>
+<h3 id="jacques-bertin-semiotyka-wizualizacji-danych">Jacques Bertin: Semiotyka wizualizacji danych</h3>
 
 <p>Jacques Bertin, wybitny francuski kartograf i teoretyk informacji, jest postacią niezwykle istotną dla dziedziny wizualizacji danych. Jego wkład polegał na stworzeniu semiologii graficznej, czyli nauki o znakach graficznych, ich strukturze i sposobie działania na odbiorcę.</p>
 
@@ -270,7 +270,7 @@
 
 <hr />
 
-<h2 id="ben-shneiderman---interaktywna-wizualizacji-danych">Ben Shneiderman - Interaktywna wizualizacji danych</h2>
+<h3 id="ben-shneiderman-interaktywna-wizualizacji-danych">Ben Shneiderman: Interaktywna wizualizacji danych</h3>
 
 <p>Ben Shneiderman, wybitny amerykański informatyk i profesor na University of Maryland, jest uznawany za pioniera w dziedzinie interaktywnej wizualizacji danych. Jego prace wyznaczyły nowy kierunek w podejściu do prezentacji i interakcji z danymi.</p>
 

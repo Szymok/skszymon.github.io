@@ -1,5 +1,7 @@
 <!DOCTYPE html>
-<!-- _layouts/distill.html --><html>
+<html lang="pl">
+
+  <!-- Head -->
   <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">    <!-- Metadata, OpenGraph and Schema.org -->
     
@@ -55,6 +57,9 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jwarby/jekyll-pygments-themes@master/github.css" media="" id="highlight_theme_light">
 
     
+    <!-- Sidebar Table of Contents -->
+    <link href="https://cdn.rawgit.com/afeld/bootstrap-toc/v1.0.1/dist/bootstrap-toc.min.css" rel="stylesheet">
+    
 
     <!-- Styles -->
     
@@ -71,55 +76,10 @@
     <script src="/assets/js/dark_mode.js"></script>
     
 
-
-    <!-- jQuery -->
-  <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
-
-    <!-- MathJax -->
-  <script type="text/javascript">
-    window.MathJax = {
-      tex: {
-        tags: 'ams'
-      }
-    };
-  </script>
-  <script defer type="text/javascript" id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3.2.0/es5/tex-mml-chtml.js"></script>
-  <script defer src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-
-    <!-- Distill js -->
-    <script src="/assets/js/distillpub/template.v2.js"></script>
-    <script src="/assets/js/distillpub/transforms.v2.js"></script>
-    <script src="/assets/js/distillpub/overrides.js"></script>
-    
   </head>
 
-  <body>
-<d-front-matter>
-    <script async type="text/json">{
-      "title": "Historia wizualizacji danych",
-      "description": "Pierwsza część artykułu, który skupia sie na historii wizualizacji danych",
-      "published": "June 11, 2023",
-      "authors": [
-        
-      ],
-      "katex": {
-        "delimiters": [
-          {
-            "left": "$",
-            "right": "$",
-            "display": false
-          },
-          {
-            "left": "$$",
-            "right": "$$",
-            "display": true
-          }
-        ]
-      }
-    }</script>
-  </d-front-matter>
-
-  
+  <!-- Body -->
+  <body class="fixed-top-nav ">
 
     <!-- Header -->
     <header>
@@ -192,51 +152,51 @@
 
 
     <!-- Content -->
-    <div class="post distill">
+    <div class="container mt-5">
+      
+        
+        <div class="row">
+          <!-- sidebar, which will move to the top on a small screen -->
+          <div class="col-sm-3">
+            <nav id="toc-sidebar" class="sticky-top"></nav>
+          </div>
+          <!-- main content area -->
+          <div class="col-sm-9">
+            <!-- _layouts/post.html -->
 
-      <d-title>
-        <h1>Historia wizualizacji danych</h1>
-        <p>Pierwsza część artykułu, który skupia sie na historii wizualizacji danych</p>
-      </d-title>
+<div class="post">
 
-      <d-byline></d-byline>
+  <header class="post-header">
+    <h1 class="post-title">Historia wizualizacji danych</h1>
+    <p class="post-meta">June 11, 2023</p>
+    <p class="post-tags">
+      <a href="/blog/2023"> <i class="fas fa-calendar fa-sm"></i> 2023 </a>
+        ·  
+        <a href="/blog/tag/analiza-danych">
+          <i class="fas fa-hashtag fa-sm"></i> analiza-danych</a>  
+          <a href="/blog/tag/narzedzia">
+          <i class="fas fa-hashtag fa-sm"></i> narzedzia</a>  
+          <a href="/blog/tag/historia">
+          <i class="fas fa-hashtag fa-sm"></i> historia</a>  
+          <a href="/blog/tag/wizualizacje">
+          <i class="fas fa-hashtag fa-sm"></i> wizualizacje</a>  
+          <a href="/blog/tag/visualization">
+          <i class="fas fa-hashtag fa-sm"></i> visualization</a>  
+          <a href="/blog/tag/edukacja">
+          <i class="fas fa-hashtag fa-sm"></i> edukacja</a>  
+          
+        ·  
+        <a href="/blog/category/article">
+          <i class="fas fa-tag fa-sm"></i> article</a>  
+          
 
-      <d-article>
-        <d-contents>
-          <nav class="l-text figcaption">
-          <h3>Contents</h3>
-            <div><a href="#historia-wizualizacji-danych">Historia wizualizacji danych</a></div>
-            <div><a href="#pocz%C4%85tki-wizualizacji-danych">Początki wizualizacji danych</a></div>
-            <ul>
-              <li><a href="#william-playfair-ojciec-wsp%C3%B3%C5%82czesnej-wizualizacji-danych">William Playfair - Ojciec współczesnej wizualizacji danych</a></li>
-              
-            </ul>
-<div><a href="#wizualizacja-danych-w-s%C5%82u%C5%BCbie-zdrowia">Wizualizacja danych w służbie zdrowia</a></div>
-            <ul>
-              <li><a href="#florence-nightingale">Florence Nightingale</a></li>
-              <li><a href="#john-snow">John Snow</a></li>
-              
-            </ul>
-<div><a href="#charles-minard-wizualizacja-danych-wojennych">Charles Minard - Wizualizacja danych wojennych</a></div>
-            <div><a href="#pocz%C4%85tki-wsp%C3%B3%C5%82czesnej-wizualizacji-danych">Początki współczesnej wizualizacji danych</a></div>
-            <ul>
-              <li><a href="#herman-hollerith-maszyna-do-przetwarzania-danych">Herman Hollerith - Maszyna do przetwarzania danych</a></li>
-              <li><a href="#john-tukey-ojciec-eksploracyjnej-analizy-danych">John Tukey - Ojciec eksploracyjnej analizy danych</a></li>
-              <li><a href="#edward-tufte-wizualizacja-danych-w-xx-wieku">Edward Tufte - Wizualizacja danych w XX wieku</a></li>
-              <li><a href="#jacques-bertin-semiotyka-wizualizacji-danych">Jacques Bertin - Semiotyka wizualizacji danych</a></li>
-              
-            </ul>
-<div><a href="#pocz%C4%85tek-ery-komputerowej-wizualizacji-danych-koniec-lat-60-xx-wieku">Początek ery komputerowej wizualizacji danych (koniec lat 60. XX wieku)</a></div>
-            <ul>
-              <li><a href="#ben-shneiderman-interaktywna-wizualizacji-danych">Ben Shneiderman - Interaktywna wizualizacji danych</a></li>
-              
-            </ul>
-<div><a href="#podsumowanie">Podsumowanie</a></div>
-            
-          </nav>
-        </d-contents>
+    </p>
+  </header>
 
-        <h2 id="historia-wizualizacji-danych">Historia wizualizacji danych</h2>
+  <article class="post-content">
+    
+    <div id="markdown-content">
+      <h2 id="historia-wizualizacji-danych">Historia wizualizacji danych</h2>
 
 <p>Wizualizacja danych ma długą i fascynującą historię, sięgającą głęboko w przeszłość. Od prymitywnych malowideł naskalnych po dzisiejsze zaawansowane narzędzia komputerowe, wizualizacja danych odegrała znaczącą rolę w rozwijaniu naszego zrozumienia informacji i przedstawianiu jej w sposób zarówno atrakcyjny, jak i efektywny. W pierwszym rozdziale tej książki przyjrzymy się początkom wizualizacji danych i dowiemy się, jak nasza zdolność do przedstawiania informacji wizualnie ewoluowała na przestrzeni wieków.</p>
 
@@ -266,7 +226,7 @@
 
 <hr>
 
-<h2 id="william-playfair---ojciec-współczesnej-wizualizacji-danych">William Playfair - Ojciec współczesnej wizualizacji danych</h2>
+<h3 id="william-playfair-ojciec-współczesnej-wizualizacji-danych">William Playfair: Ojciec współczesnej wizualizacji danych</h3>
 
 <p>Playfair, szkocki ekonomista i inżynier, to postać, której nie da się pominąć, mówiąc o historii wizualizacji danych. To on w XVIII wieku wprowadził wykresy liniowe, słupkowe i kołowe jako narzędzia do prezentacji danych statystycznych.</p>
 
@@ -324,7 +284,7 @@
 
 <hr>
 
-<h2 id="florence-nightingale">Florence Nightingale</h2>
+<h3 id="florence-nightingale">Florence Nightingale</h3>
 
 <p>Najbardziej znane osiągnięcie Nightingale w dziedzinie wizualizacji danych to jej “diagram kołowy” (polar area diagram), który często nazywany jest “diagramem różycy”. Użyła go do ilustracji, jakie były przyczyny zgonów wśród żołnierzy podczas Wojny Krymskiej.</p>
 
@@ -358,7 +318,7 @@
 
 <hr>
 
-<h2 id="john-snow">John Snow</h2>
+<h3 id="john-snow">John Snow</h3>
 
 <p>John Snow, angielski lekarz, jest znany z tego, że jako pierwszy zastosował wizualizację danych do badania epidemiologii. W 1854 roku, podczas epidemii cholery w Londynie, Snow stworzył mapę, która przedstawiała lokalizację przypadków zachorowań na cholerę w dzielnicy Soho.</p>
 
@@ -389,7 +349,7 @@
 
 <hr>
 
-<h2 id="charles-minard---wizualizacja-danych-wojennych">Charles Minard - Wizualizacja danych wojennych</h2>
+<h3 id="charles-minard-wizualizacja-danych-wojennych">Charles Minard: Wizualizacja danych wojennych</h3>
 
 <p>Charles Minard, francuski inżynier i ekonomista, jest sławny z powodu swojej niezwykłej umiejętności prezentowania skomplikowanych danych w prosty i zrozumiały sposób. Minard jest najbardziej znany z wyjątkowego diagramu przedstawiającego katastrofalną kampanię Napoleona w Rosji w 1812 roku. Ta innowacyjna wizualizacja, często uważana za “najlepszy wykres statystyczny wszech czasów”, jednocześnie ilustruje sześć różnych zmiennych: liczbę wojsk, odległość, temperaturę, datę, kierunek ruchu i lokalizację.</p>
 
@@ -429,7 +389,7 @@
 
 <hr>
 
-<h2 id="herman-hollerith---maszyna-do-przetwarzania-danych">Herman Hollerith - Maszyna do przetwarzania danych</h2>
+<h3 id="herman-hollerith-maszyna-do-przetwarzania-danych">Herman Hollerith: Maszyna do przetwarzania danych</h3>
 
 <figure>
 
@@ -459,7 +419,7 @@
 
 <hr>
 
-<h2 id="john-tukey---ojciec-eksploracyjnej-analizy-danych">John Tukey - Ojciec eksploracyjnej analizy danych</h2>
+<h3 id="john-tukey-ojciec-eksploracyjnej-analizy-danych">John Tukey: Ojciec eksploracyjnej analizy danych</h3>
 
 <p>John Tukey, wybitny amerykański matematyk i statystyk, jest powszechnie uznawany za “ojca eksploracyjnej analizy danych” (EDA - Exploratory Data Analysis). EDA to podejście do analizy danych, które polega na eksploracji i wizualizacji danych przed formalnym testowaniem statystycznym, pozwalając na zrozumienie ich struktury, wykrycie anomalii, sprawdzenie założeń czy identyfikację potencjalnych modeli.</p>
 
@@ -471,7 +431,7 @@
 
 <hr>
 
-<h2 id="edward-tufte---wizualizacja-danych-w-xx-wieku">Edward Tufte - Wizualizacja danych w XX wieku</h2>
+<h3 id="edward-tufte-wizualizacja-danych-w-xx-wieku">Edward Tufte: Wizualizacja danych w XX wieku</h3>
 
 <p>Edward Tufte, amerykański teoretyk informacji, jest niezaprzeczalnie jednym z najbardziej wpływowych pionierów w dziedzinie wizualizacji danych w XX wieku. Zasłynął z tworzenia szczegółowych zasad dotyczących efektywnej prezentacji danych statystycznych, które znalazły odzwierciedlenie w jego licznych publikacjach.</p>
 
@@ -483,7 +443,7 @@
 
 <hr>
 
-<h2 id="jacques-bertin---semiotyka-wizualizacji-danych">Jacques Bertin - Semiotyka wizualizacji danych</h2>
+<h3 id="jacques-bertin-semiotyka-wizualizacji-danych">Jacques Bertin: Semiotyka wizualizacji danych</h3>
 
 <p>Jacques Bertin, wybitny francuski kartograf i teoretyk informacji, jest postacią niezwykle istotną dla dziedziny wizualizacji danych. Jego wkład polegał na stworzeniu semiologii graficznej, czyli nauki o znakach graficznych, ich strukturze i sposobie działania na odbiorcę.</p>
 
@@ -507,7 +467,7 @@
 
 <hr>
 
-<h2 id="ben-shneiderman---interaktywna-wizualizacji-danych">Ben Shneiderman - Interaktywna wizualizacji danych</h2>
+<h3 id="ben-shneiderman-interaktywna-wizualizacji-danych">Ben Shneiderman: Interaktywna wizualizacji danych</h3>
 
 <p>Ben Shneiderman, wybitny amerykański informatyk i profesor na University of Maryland, jest uznawany za pioniera w dziedzinie interaktywnej wizualizacji danych. Jego prace wyznaczyły nowy kierunek w podejściu do prezentacji i interakcji z danymi.</p>
 
@@ -531,14 +491,33 @@
 
 <hr>
 
-      </d-article>
+    </div>
+  </article>
 
-      <d-appendix>
-        <d-footnote-list></d-footnote-list>
-        <d-citation-list></d-citation-list>
-      </d-appendix>
 
-      <d-bibliography src="/assets/bibliography/"></d-bibliography><div id="giscus_thread" style="max-width: 800px; margin: 0 auto;">
+  
+    
+    <br>
+    <hr>
+    <br>
+    <ul class="list-disc pl-8"></ul>
+
+    <!-- Adds related posts to the end of an article -->
+    <h2 class="text-3xl font-semibold mb-4 mt-12">Podobal Ci się ten artykuł?</h2>
+    <p class="mb-2">Oto kilka artykułów, które być może zechcesz przeczytać jako kolejne:</p>
+  
+
+  <li class="my-2">
+    <a class="text-pink-700 underline font-semibold hover:text-pink-800" href="/blog/2023/ai-writing/">Wykorzystywanie AI w pisaniu artykułów</a>
+  </li>
+
+  
+
+  <li class="my-2">
+    <a class="text-pink-700 underline font-semibold hover:text-pink-800" href="/blog/2023/ai-trends/">Procesory - trendy AI 2023</a>
+  </li>
+
+<div id="giscus_thread" style="max-width: 800px; margin: 0 auto;">
   <script>
     let giscusTheme = localStorage.getItem("theme");
     let giscusAttributes = {
@@ -568,6 +547,12 @@
 </div>
 </div>
 
+          </div>
+        </div>
+        
+      
+    </div>
+
     <!-- Footer -->    
     <footer class="fixed-bottom">
       <div class="container mt-0">
@@ -576,9 +561,48 @@ Last updated: June 18, 2023.
       </div>
     </footer>
 
+    <!-- JavaScripts -->
+    <!-- jQuery -->
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+
     <!-- Bootsrap & MDB scripts -->
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js" integrity="sha256-fgLAgv7fyCGopR/gBNq2iW3ZKIdqIcyshnUULC4vex8=" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/mdbootstrap@4.20.0/js/mdb.min.js" integrity="sha256-NdbiivsvWt7VYCt6hYNT3h/th9vSTL4EDWeGs5SN3DA=" crossorigin="anonymous"></script>
+
+    <!-- Masonry & imagesLoaded -->
+  <script defer src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js" integrity="sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI=" crossorigin="anonymous"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+  <script defer src="/assets/js/masonry.js" type="text/javascript"></script>
+    
+  <!-- Medium Zoom JS -->
+  <script defer src="https://cdn.jsdelivr.net/npm/medium-zoom@1.0.8/dist/medium-zoom.min.js" integrity="sha256-7PhEpEWEW0XXQ0k6kQrPKwuoIomz8R8IYyuU1Qew4P8=" crossorigin="anonymous"></script>
+  <script defer src="/assets/js/zoom.js"></script>
+  <!-- Sidebar Table of Contents -->
+  <script defer src="https://cdn.rawgit.com/afeld/bootstrap-toc/v1.0.1/dist/bootstrap-toc.min.js"></script>
+
+
+  <!-- Bootstrap Table -->
+  <script defer src="https://unpkg.com/bootstrap-table@1.21.4/dist/bootstrap-table.min.js"></script>
+
+  <!-- Load Common JS -->
+  <script src="/assets/js/no_defer.js"></script>
+  <script defer src="/assets/js/common.js"></script>
+  <script defer src="/assets/js/copy_code.js" type="text/javascript"></script>
+
+    
+  <script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+  <script async src="https://badge.dimensions.ai/badge.js"></script>
+
+    <!-- MathJax -->
+  <script type="text/javascript">
+    window.MathJax = {
+      tex: {
+        tags: 'ams'
+      }
+    };
+  </script>
+  <script defer type="text/javascript" id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3.2.0/es5/tex-mml-chtml.js"></script>
+  <script defer src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-GY820WSFQY"></script>
@@ -676,6 +700,62 @@ Last updated: June 18, 2023.
   }
 </script>
 
-  
-</body>
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css">
+<script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
+
+<script>
+    // Reads the value of a cookie by name or returns empty string
+    function getCookie(name) {
+        var b = document.cookie.match('(^|[^;]+)\\s*' + name + '\\s*=\\s*([^;]+)');
+        return b ? b.pop() : '';
+    }
+
+    // Actually starting analytics up
+    function addAnalytics() {
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
+        gtag('js', new Date());
+        gtag('config', 'G-GY820WSFQY');
+    }
+
+    // Waiting for the load event
+    window.addEventListener("load", function () {
+        // Reading "cookieconsent_status" cookie
+        const cookieConsent = getCookie('cookieconsent_status');
+
+        // Start analytics if user consented or did not deny
+        if (cookieConsent === 'allow' || cookieConsent === '') {
+            addAnalytics();
+        }
+
+        // Initialise cookie consent banner
+        window.cookieconsent.initialise({
+            "palette": {
+                "popup": {
+                    "background": "#efefef",
+                    "text": "#404040"
+                },
+                "button": {
+                    "background": "#8ec760",
+                    "text": "#ffffff"
+                }
+            },
+            "type": "opt-out",
+            "content": {
+                "allow": "Approve",
+                "dismiss": "Approve",
+                "deny": "Reject"
+            },
+            // Reload the page on user choice to make sure cookie is set
+            onStatusChange: function (status, chosenBefore) {
+                location.reload();
+            }
+        })
+    });
+</script>
+  </body>
 </html>
