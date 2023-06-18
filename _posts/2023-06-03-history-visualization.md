@@ -2,13 +2,18 @@
 layout: post
 title: Historia wizualizacji danych
 date: 2023-06-11 11:59:00
-description: Pierwsza część artykułu, który skupia sie na historii wizualizacji danych
+description: Artykuł, który skupia sie na historii wizualizacji danych
 tags: analiza-danych narzedzia historia wizualizacje visualization edukacja 
 categories: article
 giscus_comments: true
 toc:
   sidebar: left
 ---
+{% include figure.html path="assets/img/History-of-Data-Visualization-11.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+<div class="caption">
+    Diagram nawiązujący do wizualizacji danych i historii.  
+</div>
+
 ## Historia wizualizacji danych
 
 Wizualizacja danych ma długą i fascynującą historię, sięgającą głęboko w przeszłość. Od prymitywnych malowideł naskalnych po dzisiejsze zaawansowane narzędzia komputerowe, wizualizacja danych odegrała znaczącą rolę w rozwijaniu naszego zrozumienia informacji i przedstawianiu jej w sposób zarówno atrakcyjny, jak i efektywny. W pierwszym rozdziale tej książki przyjrzymy się początkom wizualizacji danych i dowiemy się, jak nasza zdolność do przedstawiania informacji wizualnie ewoluowała na przestrzeni wieków.
