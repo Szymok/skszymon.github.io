@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: distill
 title: Usługi Amazona a spóźnienie się na lot, jak nam pomaga? 
 date: 2023-06-19 19:30:00
 description: Krótkie przedstawienie usług AWS, które pomagają w przypadku problemów na lotnisku.

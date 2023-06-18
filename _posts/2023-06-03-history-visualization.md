@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: distill
 title: Historia wizualizacji danych
 date: 2023-06-11 11:59:00
 description: Pierwsza część artykułu, który skupia sie na historii wizualizacji danych
