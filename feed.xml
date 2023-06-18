@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://szymok.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://szymok.github.io/" rel="alternate" type="text/html" hreflang="pl" /><updated>2023-06-18T12:06:22+00:00</updated><id>https://szymok.github.io/feed.xml</id><title type="html">blank</title><subtitle>Blog o analizie danych i sztucznej inteligencji. To dwa kluczowe narzędzia wspierające decyzje biznesowe i pozwalające na uzyskanie przewagi konkurencyjnej.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://szymok.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://szymok.github.io/" rel="alternate" type="text/html" hreflang="pl" /><updated>2023-06-18T12:29:41+00:00</updated><id>https://szymok.github.io/feed.xml</id><title type="html">blank</title><subtitle>Blog o analizie danych i sztucznej inteligencji. To dwa kluczowe narzędzia wspierające decyzje biznesowe i pozwalające na uzyskanie przewagi konkurencyjnej.
 </subtitle><entry><title type="html">Historia wizualizacji danych</title><link href="https://szymok.github.io/blog/2023/history-visualization/" rel="alternate" type="text/html" title="Historia wizualizacji danych" /><published>2023-06-11T11:59:00+00:00</published><updated>2023-06-11T11:59:00+00:00</updated><id>https://szymok.github.io/blog/2023/history-visualization</id><content type="html" xml:base="https://szymok.github.io/blog/2023/history-visualization/"><![CDATA[<h2 id="historia-wizualizacji-danych">Historia wizualizacji danych</h2>
 
 <p>Wizualizacja danych ma długą i fascynującą historię, sięgającą głęboko w przeszłość. Od prymitywnych malowideł naskalnych po dzisiejsze zaawansowane narzędzia komputerowe, wizualizacja danych odegrała znaczącą rolę w rozwijaniu naszego zrozumienia informacji i przedstawianiu jej w sposób zarówno atrakcyjny, jak i efektywny. W pierwszym rozdziale tej książki przyjrzymy się początkom wizualizacji danych i dowiemy się, jak nasza zdolność do przedstawiania informacji wizualnie ewoluowała na przestrzeni wieków.</p>
@@ -10,6 +10,8 @@
 <p>Jednak prawdziwa rewolucja w dziedzinie wizualizacji danych nastąpiła wraz z rozwojem technologii komputerowej. W drugiej połowie XX wieku powstały pierwsze programy komputerowe, które umożliwiły tworzenie interaktywnych grafik, wykresów i diagramów. Przy użyciu komputera, dane mogły być przedstawiane w sposób bardziej precyzyjny, elastyczny i efektywny niż kiedykolwiek wcześniej.</p>
 
 <p>W pierwszym części naszej podróży po historii wizualizacji danych zgłębimy te fascynujące etapy rozwoju. Będziemy badać ewolucję od prymitywnych rysunków naskalnych do zaawansowanych narzędzi wizualizacyjnych dostępnych obecnie. Przyjrzymy się kluczowym postaciom i przełomowym momentom, które wpłynęły na rozwój tej dziedziny.</p>
+
+<hr />
 
 <h2 id="początki-wizualizacji-danych">Początki wizualizacji danych</h2>
 
@@ -24,6 +26,8 @@
 <p>Jeśli chodzi o grafy z tego okresu, nie były one skomplikowane jak dzisiejsze wykresy słupkowe czy kołowe, ale z pewnością można zauważyć próbę przedstawienia pewnych wzorców i trendów. Na przykład, rysunki w jaskiniach często przedstawiały zwierzęta w różnych fazach ruchu, co mogło sugerować migracje tych gatunków w określonym czasie roku.</p>
 
 <p>Choć metody wizualizacji danych z tamtych czasów mogą wydawać nam się dziś prymitywne, stanowiły one podstawę dla rozwoju tej dziedziny, jaki widzimy obecnie. Wzory, symbole i obrazy wykorzystywane przez naszych przodków nie tylko pomagały im przetrwać, ale również przekazywały ważne informacje przyszłym pokoleniom.</p>
+
+<hr />
 
 <h2 id="william-playfair---ojciec-współczesnej-wizualizacji-danych">William Playfair - Ojciec współczesnej wizualizacji danych</h2>
 
@@ -75,9 +79,13 @@
     Wykres kołowy z Playfair's Statistical Breviary (1801), pokazujący proporcje imperium tureckiego znajdującego się w Azji, Europie i Afryce przed 1789 rokiem. Źródło: <a href="https://en.wikipedia.org/wiki/William_Playfair#/media/File:Playfair-piechart.jpg">Wikipedia</a>
 </div>
 
+<hr />
+
 <h2 id="wizualizacja-danych-w-służbie-zdrowia">Wizualizacja danych w służbie zdrowia</h2>
 
 <p>Wizualizacja danych jest obecnie szeroko stosowana w wielu dziedzinach, ale jedną z najbardziej obiecujących jest służba zdrowia. Wizualizacja danych może pomóc w analizie i interpretacji danych medycznych, co może prowadzić do lepszych decyzji klinicznych i poprawy opieki zdrowotnej.</p>
+
+<hr />
 
 <h2 id="florence-nightingale">Florence Nightingale</h2>
 
@@ -111,6 +119,8 @@
 
 <p>Bazując na średniej sile armii wynoszącej 32393, Nightingale obliczyła roczną śmiertelność na poziomie 1174 na 1000. Diagram pochodzi od Bernarda Cohena, “Florence Nightingale,” Scientific American, marzec 1984. Oryginalnie pochodzi z książki Nightingale “Notes on Matters Affecting the Health, Efficiency and Hospital Administration of the British Army”, opublikowanej w 1858 roku.</p>
 
+<hr />
+
 <h2 id="john-snow">John Snow</h2>
 
 <p>John Snow, angielski lekarz, jest znany z tego, że jako pierwszy zastosował wizualizację danych do badania epidemiologii. W 1854 roku, podczas epidemii cholery w Londynie, Snow stworzył mapę, która przedstawiała lokalizację przypadków zachorowań na cholerę w dzielnicy Soho.</p>
@@ -139,6 +149,8 @@
     Wykres pokazujący temperaturę i śmiertelność Londynu dla każdego tygodnia 11 lat, 1840-50 z Farr's Report on the 1849 epidemic. Numer WI L0039176, Wellcome Library
     Źródło: <a href="https://wellcomecollection.org/works/yp5q3q3n">Wellcome Collection</a>
 </div>
+
+<hr />
 
 <h2 id="charles-minard---wizualizacja-danych-wojennych">Charles Minard - Wizualizacja danych wojennych</h2>
 
@@ -172,9 +184,14 @@
 
 <p>Dzięki temu wykresowi mamy szczegółowy obraz tego, co zaszło w bitwie. Jeżeli przeanalizujesz wykres, łatwiej będzie zrozumieć i “zwizualizować” liczby niż na podstawie tekstu. Wyjaśnienie tekstowe utrudnia zrozumienie liczb w odpowiedniej kolejności wielkości. Spoglądając na wykres, możemy lepiej zrozumieć katastrofę, jaką była ta bitwa.</p>
 
+<hr />
+
 <h2 id="początki-współczesnej-wizualizacji-danych">Początki współczesnej wizualizacji danych</h2>
 
 <p>Wizualizacja danych zaczęła się rozwijać wraz z rozwojem technologii komputerowych. W latach 60. XX wieku pojawiły się pierwsze komputery, które umożliwiły przetwarzanie i wizualizację dużych zbiorów danych. W tym samym czasie pojawiły się pierwsze narzędzia do wizualizacji danych, takie jak systemy graficzne, które umożliwiły użytkownikom tworzenie wykresów i diagramów bez konieczności pisania kodu.</p>
+
+<hr />
+
 <h2 id="herman-hollerith---maszyna-do-przetwarzania-danych">Herman Hollerith - Maszyna do przetwarzania danych</h2>
 
 <figure>
@@ -203,6 +220,8 @@
 
 <p>W 1896 roku Hollerith założył Tabulating Machine Company, firmę, która później przekształciła się w giganta technologicznego, znanego dzisiaj jako IBM. Wykorzystanie kart perforowanych do przechowywania i przetwarzania danych, zapoczątkowane przez Holleritha, stało się fundamentem dla rozwoju technologii informacyjnej. Bez jego przyczynkowego wkładu, historia wizualizacji danych mogłaby wyglądać zupełnie inaczej. Praca Holleritha położyła podwaliny pod nowoczesne metody analizy i wizualizacji danych, które teraz są nieodłączną częścią naszego świata.</p>
 
+<hr />
+
 <h2 id="john-tukey---ojciec-eksploracyjnej-analizy-danych">John Tukey - Ojciec eksploracyjnej analizy danych</h2>
 
 <p>John Tukey, wybitny amerykański matematyk i statystyk, jest powszechnie uznawany za “ojca eksploracyjnej analizy danych” (EDA - Exploratory Data Analysis). EDA to podejście do analizy danych, które polega na eksploracji i wizualizacji danych przed formalnym testowaniem statystycznym, pozwalając na zrozumienie ich struktury, wykrycie anomalii, sprawdzenie założeń czy identyfikację potencjalnych modeli.</p>
@@ -212,6 +231,8 @@
 <p>Tukey zawsze podkreślał wagę wizualizacji w procesie analizy danych. W swojej pracy “Eksploracyjna Analiza Danych” z 1977 roku, wyjaśnił jak różne metody wizualizacji, takie jak histogramy, wykresy punktowe czy wykresy Q-Q, mogą pomóc w zrozumieniu danych. Ta praca jest do dziś fundamentalnym źródłem wiedzy na temat EDA.</p>
 
 <p>Dziedzictwo Tukeya żyje w każdej analizie danych, która zaczyna się od dokładnego zrozumienia danych poprzez ich wizualizację. Jego wkład w dziedzinę statystyki i wizualizacji danych jest nieoceniony, a jego prace nadal inspirują kolejne generacje analityków danych.</p>
+
+<hr />
 
 <h2 id="edward-tufte---wizualizacja-danych-w-xx-wieku">Edward Tufte - Wizualizacja danych w XX wieku</h2>
 
@@ -223,6 +244,8 @@
 
 <p>Edward Tufte jest również znany z wprowadzenia koncepcji “sparklines” - małych, intensywnych, prostych, wykresów słupkowych, które pozwalają na skondensowane przedstawienie informacji. Wszystkie te idee i koncepcje przyczyniły się do kształtowania nowoczesnej wizualizacji danych, a wkład Tufta jest nieoceniony dla dzisiejszych projektantów i analityków danych.</p>
 
+<hr />
+
 <h2 id="jacques-bertin---semiotyka-wizualizacji-danych">Jacques Bertin - Semiotyka wizualizacji danych</h2>
 
 <p>Jacques Bertin, wybitny francuski kartograf i teoretyk informacji, jest postacią niezwykle istotną dla dziedziny wizualizacji danych. Jego wkład polegał na stworzeniu semiologii graficznej, czyli nauki o znakach graficznych, ich strukturze i sposobie działania na odbiorcę.</p>
@@ -232,6 +255,8 @@
 <p>Bertin zwracał uwagę na to, że wizualizacja danych musi być przemyślana i zrozumiała dla odbiorcy. Podkreślał, że skuteczność wizualizacji danych zależy od prawidłowego wyboru i zastosowania zmiennych wizualnych.</p>
 
 <p>Nauka Bertina dotycząca semiologii graficznej ma olbrzymie znaczenie dla dzisiejszych praktyk wizualizacji danych. Jego idee nadal inspirują i kształtują sposób, w jaki prezentujemy i interpretujemy informacje. “Semiology of Graphics” Jacques’a Bertina to absolutna klasyka w dziedzinie wizualizacji danych, która pomogła zdefiniować podstawy tej dyscypliny.</p>
+
+<hr />
 
 <h2 id="początek-ery-komputerowej-wizualizacji-danych-koniec-lat-60-xx-wieku">Początek ery komputerowej wizualizacji danych (koniec lat 60. XX wieku)</h2>
 
@@ -243,6 +268,8 @@
 
 <p>Rozwój technologii komputerowych sprawił, że analiza i wizualizacja danych stała się szybsza, dokładniejsza i bardziej dostępna. To właśnie te lata dały początek nowoczesnej wizualizacji danych, której jesteśmy świadkami dzisiaj. Ewolucja narzędzi do wizualizacji danych, która rozpoczęła się w latach 60., jest nadal w toku, a możliwości jakie daje nam dzisiejsza technologia są niezwykle ekscytujące.</p>
 
+<hr />
+
 <h2 id="ben-shneiderman---interaktywna-wizualizacji-danych">Ben Shneiderman - Interaktywna wizualizacji danych</h2>
 
 <p>Ben Shneiderman, wybitny amerykański informatyk i profesor na University of Maryland, jest uznawany za pioniera w dziedzinie interaktywnej wizualizacji danych. Jego prace wyznaczyły nowy kierunek w podejściu do prezentacji i interakcji z danymi.</p>
@@ -253,6 +280,8 @@
 
 <p>Shneiderman miał ogromny wpływ na rozwój interaktywnych wizualizacji danych, a jego koncepcje nadal są stosowane w nowoczesnym projektowaniu UX/UI. Dzięki jego wkładowi, dzisiaj możemy korzystać z narzędzi, które umożliwiają łatwe i intuicyjne poruszanie się po skomplikowanych zestawach danych. Jego prace są nieocenionym źródłem wiedzy dla każdego, kto interesuje się wizualizacją danych.</p>
 
+<hr />
+
 <h2 id="podsumowanie">Podsumowanie</h2>
 
 <p>Podsumowując, historia wizualizacji danych to niezwykle interesujące i dynamiczne pole, które od starożytności do współczesności przeszło przez wiele faz ewolucji. Od prostych reprezentacji w formie map i wykresów, przez innowacyjne prace Minarda, aż do wynalazku maszyn do przetwarzania danych przez Holleritha, wizualizacja danych zawsze była nieodzownym elementem nauki i biznesu.</p>
@@ -261,22 +290,9 @@
 
 <p>Obecnie, w dobie cyfryzacji i rosnącej ilości dostępnych danych, wizualizacja danych odgrywa kluczową rolę w wielu dziedzinach życia. Służy do przekazywania skomplikowanych informacji w przystępnej formie, pomaga w podejmowaniu decyzji i jest nieodzowna w świecie nauki, technologii i biznesu.</p>
 
-<p>Oczekuje się, że przyszłość przyniesie jeszcze więcej innowacji w dziedzinie wizualizacji danych, a jej znaczenie będzie dalej rosnąć. Jak pokazuje historia, potencjał tej dziedziny jest nieograniczony, a nasza zdolność do wykorzystania danych w celu zrozumienia świata wciąż się rozwija.</p>]]></content><author><name></name></author><category term="article" /><category term="analiza-danych" /><category term="narzedzia" /><category term="historia" /><category term="wizualizacje" /><category term="visualization" /><category term="edukacja" /><summary type="html"><![CDATA[Pierwsza część artykułu, który skupia sie na historii wizualizacji danych]]></summary></entry><entry><title type="html">Usługi Amazona a spóźnienie się na lot, jak to powiązać?</title><link href="https://szymok.github.io/blog/2023/aws-airport/" rel="alternate" type="text/html" title="Usługi Amazona a spóźnienie się na lot, jak to powiązać?" /><published>2023-06-11T11:59:00+00:00</published><updated>2023-06-11T11:59:00+00:00</updated><id>https://szymok.github.io/blog/2023/aws-airport</id><content type="html" xml:base="https://szymok.github.io/blog/2023/aws-airport/"><![CDATA[<h2 id="wstęp">Wstęp</h2>
-<p>Choć to historia mogłaby wydawać się jak scena z filmu, jest to tylko wymyślony scenariusz, stworzony na potrzeby tego artykułu. Celem tego opisu jest zilustrowanie, jak łatwo można przegapić lot, gdy nie jesteśmy świadomi konsekwencji niezauważenia upływu czasu na lotnisku.*</p>
+<p>Oczekuje się, że przyszłość przyniesie jeszcze więcej innowacji w dziedzinie wizualizacji danych, a jej znaczenie będzie dalej rosnąć. Jak pokazuje historia, potencjał tej dziedziny jest nieograniczony, a nasza zdolność do wykorzystania danych w celu zrozumienia świata wciąż się rozwija.</p>
 
-<p>Grupa przyjaciół przybyła na Lotnisko Chopina w Warszawie z dużym wyprzedzeniem przed planowanym odlotem. Byli podekscytowani zbliżającą się podróżą do Nowego Jorku - mieli spędzić tam dwa tygodnie, zwiedzając miasto i ciesząc się amerykańskim stylem życia. Po odprawie bagażu, kontroli bezpieczeństwa i przepustkach imigracyjnych, zdecydowali się na krótki odpoczynek w jednej z restauracji lotniska.</p>
-
-<p>Czas mijał niezauważenie, kiedy rozmawiali, jedli i śmiali się, nieświadomi tego, że ich samolot miał odlecieć za niecałą godzinę. Gdy w końcu spojrzeli na zegarek, zrozumieli, że nie mają już czasu na luzie dotrzeć do bramki. Zgromadzili swoje rzeczy i w pośpiechu ruszyli w kierunku bramki.</p>
-
-<p>Linie lotnicze rozpoczęły procedurę wejścia na pokład na godzinę przed planowanym odlotem, a ta zakończyła się w ciągu 30 minut. Jednak grupa przyjaciół była nadal nieobecna. Mimo wielokrotnych ogłoszeń, aby zgromadzili się przy bramce, nie było żadnej reakcji. Pracownik linii lotniczych, nie mogąc ich znaleźć, poinformował o tym swoich przełożonych. Bramka została zamknięta, a samolot wystartował 10 minut przed planowanym odlotem.</p>
-
-<p>Grupa przyjaciół dotarła do bramki 5 minut przed planowanym odlotem. Z przerażeniem zobaczyli, że bramka jest już zamknięta, a samolot zaczyna się oddalać. Zrozumieli, że przegapili swój lot. Byli załamani, że ich długo planowane wakacje zostały nagle zrujnowane.</p>
-
-<p>Podszedł do nich pracownik lotniska i wyjaśnił, że powinni byli być przy bramce co najmniej 30 minut przed odlotem. Z ciężkim sercem zarezerwowali nocleg w hotelu lotniskowym, zdecydowani na złapanie następnego lotu do Nowego Jorku.</p>
-
-<p>Tak jak w wielu przypadkach, przegapienie lotu przez tę grupę przyjaciół to kolejny przykład na to, jak łatwo można przecenić czas potrzebny na dotarcie do bramki, zwłaszcza jeżeli przemawiają do nas różnego rodzaju rozproszenia.</p>
-
-<p>##</p>]]></content><author><name></name></author><category term="article" /><category term="analiza-danych" /><category term="aws" /><category term="amazon" /><category term="s3" /><category term="lambda" /><category term="airport" /><category term="lotnisko" /><category term="technologia" /><category term="ai" /><category term="machine-learning" /><summary type="html"><![CDATA[Krótkie przedstawienie usług AWS, które pomagają w przypadku problemów na lotnisku.]]></summary></entry><entry><title type="html">Wykorzystywanie AI w pisaniu artykułów</title><link href="https://szymok.github.io/blog/2023/ai-writing/" rel="alternate" type="text/html" title="Wykorzystywanie AI w pisaniu artykułów" /><published>2023-03-13T00:10:00+00:00</published><updated>2023-03-13T00:10:00+00:00</updated><id>https://szymok.github.io/blog/2023/ai-writing</id><content type="html" xml:base="https://szymok.github.io/blog/2023/ai-writing/"><![CDATA[<figure>
+<hr />]]></content><author><name></name></author><category term="article" /><category term="analiza-danych" /><category term="narzedzia" /><category term="historia" /><category term="wizualizacje" /><category term="visualization" /><category term="edukacja" /><summary type="html"><![CDATA[Pierwsza część artykułu, który skupia sie na historii wizualizacji danych]]></summary></entry><entry><title type="html">Wykorzystywanie AI w pisaniu artykułów</title><link href="https://szymok.github.io/blog/2023/ai-writing/" rel="alternate" type="text/html" title="Wykorzystywanie AI w pisaniu artykułów" /><published>2023-03-13T00:10:00+00:00</published><updated>2023-03-13T00:10:00+00:00</updated><id>https://szymok.github.io/blog/2023/ai-writing</id><content type="html" xml:base="https://szymok.github.io/blog/2023/ai-writing/"><![CDATA[<figure>
 
   <picture>
     
