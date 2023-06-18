@@ -58,7 +58,7 @@ Jeśli chodzi o grafy z tego okresu, nie były one skomplikowane jak dzisiejsze 
 
 Choć metody wizualizacji danych z tamtych czasów mogą wydawać nam się dziś prymitywne, stanowiły one podstawę dla rozwoju tej dziedziny, jaki widzimy obecnie. Wzory, symbole i obrazy wykorzystywane przez naszych przodków nie tylko pomagały im przetrwać, ale również przekazywały ważne informacje przyszłym pokoleniom.
 
-### William Playfair: Ojciec współczesnej wizualizacji danych
+## William Playfair - Ojciec współczesnej wizualizacji danych
 
 Playfair, szkocki ekonomista i inżynier, to postać, której nie da się pominąć, mówiąc o historii wizualizacji danych. To on w XVIII wieku wprowadził wykresy liniowe, słupkowe i kołowe jako narzędzia do prezentacji danych statystycznych.
 
@@ -82,7 +82,7 @@ Poniżej znajduje się kilka przykładów wykresów, które Playfair stworzył w
 
 Wizualizacja danych jest obecnie szeroko stosowana w wielu dziedzinach, ale jedną z najbardziej obiecujących jest służba zdrowia. Wizualizacja danych może pomóc w analizie i interpretacji danych medycznych, co może prowadzić do lepszych decyzji klinicznych i poprawy opieki zdrowotnej.
 
-### Florence Nightingale
+## Florence Nightingale
 
 Najbardziej znane osiągnięcie Nightingale w dziedzinie wizualizacji danych to jej "diagram kołowy" (polar area diagram), który często nazywany jest "diagramem różycy". Użyła go do ilustracji, jakie były przyczyny zgonów wśród żołnierzy podczas Wojny Krymskiej.
 
@@ -99,7 +99,7 @@ Obszar każdego kolorowego klinu, mierzony od środka, jest proporcjonalny do re
 
 Bazując na średniej sile armii wynoszącej 32393, Nightingale obliczyła roczną śmiertelność na poziomie 1174 na 1000. Diagram pochodzi od Bernarda Cohena, "Florence Nightingale," Scientific American, marzec 1984. Oryginalnie pochodzi z książki Nightingale "Notes on Matters Affecting the Health, Efficiency and Hospital Administration of the British Army", opublikowanej w 1858 roku.
 
-### John Snow
+## John Snow
 
 John Snow, angielski lekarz, jest znany z tego, że jako pierwszy zastosował wizualizację danych do badania epidemiologii. W 1854 roku, podczas epidemii cholery w Londynie, Snow stworzył mapę, która przedstawiała lokalizację przypadków zachorowań na cholerę w dzielnicy Soho. 
 
@@ -113,7 +113,7 @@ Praca Snowa pomogła zmienić podejście do zdrowia publicznego i zrozumieć, ja
     Źródło: <a href="https://wellcomecollection.org/works/yp5q3q3n">Wellcome Collection</a>
 </div>
 
-## Charles Minard: Wizualizacja danych wojennych
+## Charles Minard - Wizualizacja danych wojennych
 
 Charles Minard, francuski inżynier i ekonomista, jest sławny z powodu swojej niezwykłej umiejętności prezentowania skomplikowanych danych w prosty i zrozumiały sposób. Minard jest najbardziej znany z wyjątkowego diagramu przedstawiającego katastrofalną kampanię Napoleona w Rosji w 1812 roku. Ta innowacyjna wizualizacja, często uważana za "najlepszy wykres statystyczny wszech czasów", jednocześnie ilustruje sześć różnych zmiennych: liczbę wojsk, odległość, temperaturę, datę, kierunek ruchu i lokalizację.
 
@@ -133,7 +133,7 @@ Dzięki temu wykresowi mamy szczegółowy obraz tego, co zaszło w bitwie. Jeże
 ## Początki współczesnej wizualizacji danych
 
 Wizualizacja danych zaczęła się rozwijać wraz z rozwojem technologii komputerowych. W latach 60. XX wieku pojawiły się pierwsze komputery, które umożliwiły przetwarzanie i wizualizację dużych zbiorów danych. W tym samym czasie pojawiły się pierwsze narzędzia do wizualizacji danych, takie jak systemy graficzne, które umożliwiły użytkownikom tworzenie wykresów i diagramów bez konieczności pisania kodu.
-### Herman Hollerith: Maszyna do przetwarzania danych
+## Herman Hollerith - Maszyna do przetwarzania danych
 
 {% include figure.html path="assets/img/R (1).jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
 <div class="caption">
@@ -146,7 +146,7 @@ Dzięki swojemu wynalazkowi, Hollerith znacznie przyspieszył proces spisu powsz
 
 W 1896 roku Hollerith założył Tabulating Machine Company, firmę, która później przekształciła się w giganta technologicznego, znanego dzisiaj jako IBM. Wykorzystanie kart perforowanych do przechowywania i przetwarzania danych, zapoczątkowane przez Holleritha, stało się fundamentem dla rozwoju technologii informacyjnej. Bez jego przyczynkowego wkładu, historia wizualizacji danych mogłaby wyglądać zupełnie inaczej. Praca Holleritha położyła podwaliny pod nowoczesne metody analizy i wizualizacji danych, które teraz są nieodłączną częścią naszego świata.
 
-### John Tukey: Ojciec eksploracyjnej analizy danych
+## John Tukey - Ojciec eksploracyjnej analizy danych
 
 John Tukey, wybitny amerykański matematyk i statystyk, jest powszechnie uznawany za "ojca eksploracyjnej analizy danych" (EDA - Exploratory Data Analysis). EDA to podejście do analizy danych, które polega na eksploracji i wizualizacji danych przed formalnym testowaniem statystycznym, pozwalając na zrozumienie ich struktury, wykrycie anomalii, sprawdzenie założeń czy identyfikację potencjalnych modeli.
 
@@ -156,7 +156,7 @@ Tukey zawsze podkreślał wagę wizualizacji w procesie analizy danych. W swojej
 
 Dziedzictwo Tukeya żyje w każdej analizie danych, która zaczyna się od dokładnego zrozumienia danych poprzez ich wizualizację. Jego wkład w dziedzinę statystyki i wizualizacji danych jest nieoceniony, a jego prace nadal inspirują kolejne generacje analityków danych.
 
-### Edward Tufte: Wizualizacja danych w XX wieku
+## Edward Tufte - Wizualizacja danych w XX wieku
 
 Edward Tufte, amerykański teoretyk informacji, jest niezaprzeczalnie jednym z najbardziej wpływowych pionierów w dziedzinie wizualizacji danych w XX wieku. Zasłynął z tworzenia szczegółowych zasad dotyczących efektywnej prezentacji danych statystycznych, które znalazły odzwierciedlenie w jego licznych publikacjach.
 
@@ -166,7 +166,7 @@ Kolejne z jego znanych dzieł, "Envisioning Information", koncentruje się na r�
 
 Edward Tufte jest również znany z wprowadzenia koncepcji "sparklines" - małych, intensywnych, prostych, wykresów słupkowych, które pozwalają na skondensowane przedstawienie informacji. Wszystkie te idee i koncepcje przyczyniły się do kształtowania nowoczesnej wizualizacji danych, a wkład Tufta jest nieoceniony dla dzisiejszych projektantów i analityków danych.
 
-### Jacques Bertin: Semiotyka wizualizacji danych
+## Jacques Bertin - Semiotyka wizualizacji danych
 
 Jacques Bertin, wybitny francuski kartograf i teoretyk informacji, jest postacią niezwykle istotną dla dziedziny wizualizacji danych. Jego wkład polegał na stworzeniu semiologii graficznej, czyli nauki o znakach graficznych, ich strukturze i sposobie działania na odbiorcę. 
 
@@ -186,7 +186,7 @@ Wraz z upowszechnieniem komputerów osobistych i rozwojem technologii graficznyc
 
 Rozwój technologii komputerowych sprawił, że analiza i wizualizacja danych stała się szybsza, dokładniejsza i bardziej dostępna. To właśnie te lata dały początek nowoczesnej wizualizacji danych, której jesteśmy świadkami dzisiaj. Ewolucja narzędzi do wizualizacji danych, która rozpoczęła się w latach 60., jest nadal w toku, a możliwości jakie daje nam dzisiejsza technologia są niezwykle ekscytujące.
 
-### Ben Shneiderman: Interaktywna wizualizacji danych
+## Ben Shneiderman - Interaktywna wizualizacji danych
 
 Ben Shneiderman, wybitny amerykański informatyk i profesor na University of Maryland, jest uznawany za pioniera w dziedzinie interaktywnej wizualizacji danych. Jego prace wyznaczyły nowy kierunek w podejściu do prezentacji i interakcji z danymi.
 
