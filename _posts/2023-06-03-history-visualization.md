@@ -44,6 +44,8 @@ Jednak prawdziwa rewolucja w dziedzinie wizualizacji danych nastąpiła wraz z r
 
 W pierwszym części naszej podróży po historii wizualizacji danych zgłębimy te fascynujące etapy rozwoju. Będziemy badać ewolucję od prymitywnych rysunków naskalnych do zaawansowanych narzędzi wizualizacyjnych dostępnych obecnie. Przyjrzymy się kluczowym postaciom i przełomowym momentom, które wpłynęły na rozwój tej dziedziny.
 
+***
+
 ## Początki wizualizacji danych
 
 "Pierwsze próby wizualizacji danych sięgają czasów prehistorycznych" - to zdanie rozbudza moją ciekawość. Był to okres, kiedy ludzie używali malowideł naskalnych i rysunków do przedstawienia informacji. Fascynujące jest to, jak nasi przodkowie z epoki kamienia potrafili przekazywać skomplikowane koncepty za pomocą prostych form wyrazu.
@@ -57,6 +59,8 @@ Ciekawostką jest również fakt, że niektóre z tych malowideł mogą być wcz
 Jeśli chodzi o grafy z tego okresu, nie były one skomplikowane jak dzisiejsze wykresy słupkowe czy kołowe, ale z pewnością można zauważyć próbę przedstawienia pewnych wzorców i trendów. Na przykład, rysunki w jaskiniach często przedstawiały zwierzęta w różnych fazach ruchu, co mogło sugerować migracje tych gatunków w określonym czasie roku. 
 
 Choć metody wizualizacji danych z tamtych czasów mogą wydawać nam się dziś prymitywne, stanowiły one podstawę dla rozwoju tej dziedziny, jaki widzimy obecnie. Wzory, symbole i obrazy wykorzystywane przez naszych przodków nie tylko pomagały im przetrwać, ale również przekazywały ważne informacje przyszłym pokoleniom.
+
+***
 
 ## William Playfair - Ojciec współczesnej wizualizacji danych
 
@@ -78,9 +82,13 @@ Poniżej znajduje się kilka przykładów wykresów, które Playfair stworzył w
     Wykres kołowy z Playfair's Statistical Breviary (1801), pokazujący proporcje imperium tureckiego znajdującego się w Azji, Europie i Afryce przed 1789 rokiem. Źródło: <a href="https://en.wikipedia.org/wiki/William_Playfair#/media/File:Playfair-piechart.jpg">Wikipedia</a>
 </div>
 
+***
+
 ## Wizualizacja danych w służbie zdrowia
 
 Wizualizacja danych jest obecnie szeroko stosowana w wielu dziedzinach, ale jedną z najbardziej obiecujących jest służba zdrowia. Wizualizacja danych może pomóc w analizie i interpretacji danych medycznych, co może prowadzić do lepszych decyzji klinicznych i poprawy opieki zdrowotnej.
+
+***
 
 ## Florence Nightingale
 
@@ -99,6 +107,8 @@ Obszar każdego kolorowego klinu, mierzony od środka, jest proporcjonalny do re
 
 Bazując na średniej sile armii wynoszącej 32393, Nightingale obliczyła roczną śmiertelność na poziomie 1174 na 1000. Diagram pochodzi od Bernarda Cohena, "Florence Nightingale," Scientific American, marzec 1984. Oryginalnie pochodzi z książki Nightingale "Notes on Matters Affecting the Health, Efficiency and Hospital Administration of the British Army", opublikowanej w 1858 roku.
 
+***
+
 ## John Snow
 
 John Snow, angielski lekarz, jest znany z tego, że jako pierwszy zastosował wizualizację danych do badania epidemiologii. W 1854 roku, podczas epidemii cholery w Londynie, Snow stworzył mapę, która przedstawiała lokalizację przypadków zachorowań na cholerę w dzielnicy Soho. 
@@ -112,6 +122,8 @@ Praca Snowa pomogła zmienić podejście do zdrowia publicznego i zrozumieć, ja
     Wykres pokazujący temperaturę i śmiertelność Londynu dla każdego tygodnia 11 lat, 1840-50 z Farr's Report on the 1849 epidemic. Numer WI L0039176, Wellcome Library
     Źródło: <a href="https://wellcomecollection.org/works/yp5q3q3n">Wellcome Collection</a>
 </div>
+
+***
 
 ## Charles Minard - Wizualizacja danych wojennych
 
@@ -130,9 +142,14 @@ Ten mapa pokazuje ruch wojsk podczas kampanii rosyjskiej. Liczba żołnierzy, kt
 
 Dzięki temu wykresowi mamy szczegółowy obraz tego, co zaszło w bitwie. Jeżeli przeanalizujesz wykres, łatwiej będzie zrozumieć i "zwizualizować" liczby niż na podstawie tekstu. Wyjaśnienie tekstowe utrudnia zrozumienie liczb w odpowiedniej kolejności wielkości. Spoglądając na wykres, możemy lepiej zrozumieć katastrofę, jaką była ta bitwa.
 
+***
+
 ## Początki współczesnej wizualizacji danych
 
 Wizualizacja danych zaczęła się rozwijać wraz z rozwojem technologii komputerowych. W latach 60. XX wieku pojawiły się pierwsze komputery, które umożliwiły przetwarzanie i wizualizację dużych zbiorów danych. W tym samym czasie pojawiły się pierwsze narzędzia do wizualizacji danych, takie jak systemy graficzne, które umożliwiły użytkownikom tworzenie wykresów i diagramów bez konieczności pisania kodu.
+
+***
+
 ## Herman Hollerith - Maszyna do przetwarzania danych
 
 {% include figure.html path="assets/img/R (1).jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
@@ -146,6 +163,8 @@ Dzięki swojemu wynalazkowi, Hollerith znacznie przyspieszył proces spisu powsz
 
 W 1896 roku Hollerith założył Tabulating Machine Company, firmę, która później przekształciła się w giganta technologicznego, znanego dzisiaj jako IBM. Wykorzystanie kart perforowanych do przechowywania i przetwarzania danych, zapoczątkowane przez Holleritha, stało się fundamentem dla rozwoju technologii informacyjnej. Bez jego przyczynkowego wkładu, historia wizualizacji danych mogłaby wyglądać zupełnie inaczej. Praca Holleritha położyła podwaliny pod nowoczesne metody analizy i wizualizacji danych, które teraz są nieodłączną częścią naszego świata.
 
+***
+
 ## John Tukey - Ojciec eksploracyjnej analizy danych
 
 John Tukey, wybitny amerykański matematyk i statystyk, jest powszechnie uznawany za "ojca eksploracyjnej analizy danych" (EDA - Exploratory Data Analysis). EDA to podejście do analizy danych, które polega na eksploracji i wizualizacji danych przed formalnym testowaniem statystycznym, pozwalając na zrozumienie ich struktury, wykrycie anomalii, sprawdzenie założeń czy identyfikację potencjalnych modeli.
@@ -155,6 +174,8 @@ Jednym z kluczowych wkładów Tukeya w dziedzinę wizualizacji danych jest wynal
 Tukey zawsze podkreślał wagę wizualizacji w procesie analizy danych. W swojej pracy "Eksploracyjna Analiza Danych" z 1977 roku, wyjaśnił jak różne metody wizualizacji, takie jak histogramy, wykresy punktowe czy wykresy Q-Q, mogą pomóc w zrozumieniu danych. Ta praca jest do dziś fundamentalnym źródłem wiedzy na temat EDA.
 
 Dziedzictwo Tukeya żyje w każdej analizie danych, która zaczyna się od dokładnego zrozumienia danych poprzez ich wizualizację. Jego wkład w dziedzinę statystyki i wizualizacji danych jest nieoceniony, a jego prace nadal inspirują kolejne generacje analityków danych.
+
+***
 
 ## Edward Tufte - Wizualizacja danych w XX wieku
 
@@ -166,6 +187,8 @@ Kolejne z jego znanych dzieł, "Envisioning Information", koncentruje się na r�
 
 Edward Tufte jest również znany z wprowadzenia koncepcji "sparklines" - małych, intensywnych, prostych, wykresów słupkowych, które pozwalają na skondensowane przedstawienie informacji. Wszystkie te idee i koncepcje przyczyniły się do kształtowania nowoczesnej wizualizacji danych, a wkład Tufta jest nieoceniony dla dzisiejszych projektantów i analityków danych.
 
+***
+
 ## Jacques Bertin - Semiotyka wizualizacji danych
 
 Jacques Bertin, wybitny francuski kartograf i teoretyk informacji, jest postacią niezwykle istotną dla dziedziny wizualizacji danych. Jego wkład polegał na stworzeniu semiologii graficznej, czyli nauki o znakach graficznych, ich strukturze i sposobie działania na odbiorcę. 
@@ -175,6 +198,8 @@ W swojej fundamentalnej książce "Semiology of Graphics", opublikowanej po raz 
 Bertin zwracał uwagę na to, że wizualizacja danych musi być przemyślana i zrozumiała dla odbiorcy. Podkreślał, że skuteczność wizualizacji danych zależy od prawidłowego wyboru i zastosowania zmiennych wizualnych. 
 
 Nauka Bertina dotycząca semiologii graficznej ma olbrzymie znaczenie dla dzisiejszych praktyk wizualizacji danych. Jego idee nadal inspirują i kształtują sposób, w jaki prezentujemy i interpretujemy informacje. "Semiology of Graphics" Jacques'a Bertina to absolutna klasyka w dziedzinie wizualizacji danych, która pomogła zdefiniować podstawy tej dyscypliny.
+
+***
 
 ## Początek ery komputerowej wizualizacji danych (koniec lat 60. XX wieku)
 
@@ -186,6 +211,8 @@ Wraz z upowszechnieniem komputerów osobistych i rozwojem technologii graficznyc
 
 Rozwój technologii komputerowych sprawił, że analiza i wizualizacja danych stała się szybsza, dokładniejsza i bardziej dostępna. To właśnie te lata dały początek nowoczesnej wizualizacji danych, której jesteśmy świadkami dzisiaj. Ewolucja narzędzi do wizualizacji danych, która rozpoczęła się w latach 60., jest nadal w toku, a możliwości jakie daje nam dzisiejsza technologia są niezwykle ekscytujące.
 
+***
+
 ## Ben Shneiderman - Interaktywna wizualizacji danych
 
 Ben Shneiderman, wybitny amerykański informatyk i profesor na University of Maryland, jest uznawany za pioniera w dziedzinie interaktywnej wizualizacji danych. Jego prace wyznaczyły nowy kierunek w podejściu do prezentacji i interakcji z danymi.
@@ -196,6 +223,8 @@ Jego publikacja "The Eyes Have It: A Task by Data Type Taxonomy for Information 
 
 Shneiderman miał ogromny wpływ na rozwój interaktywnych wizualizacji danych, a jego koncepcje nadal są stosowane w nowoczesnym projektowaniu UX/UI. Dzięki jego wkładowi, dzisiaj możemy korzystać z narzędzi, które umożliwiają łatwe i intuicyjne poruszanie się po skomplikowanych zestawach danych. Jego prace są nieocenionym źródłem wiedzy dla każdego, kto interesuje się wizualizacją danych.
 
+***
+
 ## Podsumowanie
 
 Podsumowując, historia wizualizacji danych to niezwykle interesujące i dynamiczne pole, które od starożytności do współczesności przeszło przez wiele faz ewolucji. Od prostych reprezentacji w formie map i wykresów, przez innowacyjne prace Minarda, aż do wynalazku maszyn do przetwarzania danych przez Holleritha, wizualizacja danych zawsze była nieodzownym elementem nauki i biznesu.
@@ -205,3 +234,5 @@ XX wiek to era ekspansji w dziedzinie wizualizacji danych, kiedy to tacy giganci
 Obecnie, w dobie cyfryzacji i rosnącej ilości dostępnych danych, wizualizacja danych odgrywa kluczową rolę w wielu dziedzinach życia. Służy do przekazywania skomplikowanych informacji w przystępnej formie, pomaga w podejmowaniu decyzji i jest nieodzowna w świecie nauki, technologii i biznesu.
 
 Oczekuje się, że przyszłość przyniesie jeszcze więcej innowacji w dziedzinie wizualizacji danych, a jej znaczenie będzie dalej rosnąć. Jak pokazuje historia, potencjał tej dziedziny jest nieograniczony, a nasza zdolność do wykorzystania danych w celu zrozumienia świata wciąż się rozwija.
+
+***
