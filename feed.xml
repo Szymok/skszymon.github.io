@@ -1,5 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://szymok.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://szymok.github.io/" rel="alternate" type="text/html" hreflang="pl" /><updated>2023-06-18T12:46:17+00:00</updated><id>https://szymok.github.io/feed.xml</id><title type="html">blank</title><subtitle>Blog o analizie danych i sztucznej inteligencji. To dwa kluczowe narzędzia wspierające decyzje biznesowe i pozwalające na uzyskanie przewagi konkurencyjnej.
-</subtitle><entry><title type="html">Historia wizualizacji danych</title><link href="https://szymok.github.io/blog/2023/history-visualization/" rel="alternate" type="text/html" title="Historia wizualizacji danych" /><published>2023-06-11T11:59:00+00:00</published><updated>2023-06-11T11:59:00+00:00</updated><id>https://szymok.github.io/blog/2023/history-visualization</id><content type="html" xml:base="https://szymok.github.io/blog/2023/history-visualization/"><![CDATA[<h2 id="historia-wizualizacji-danych">Historia wizualizacji danych</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://szymok.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://szymok.github.io/" rel="alternate" type="text/html" hreflang="pl" /><updated>2023-06-18T12:51:37+00:00</updated><id>https://szymok.github.io/feed.xml</id><title type="html">blank</title><subtitle>Blog o analizie danych i sztucznej inteligencji. To dwa kluczowe narzędzia wspierające decyzje biznesowe i pozwalające na uzyskanie przewagi konkurencyjnej.
+</subtitle><entry><title type="html">Historia wizualizacji danych</title><link href="https://szymok.github.io/blog/2023/history-visualization/" rel="alternate" type="text/html" title="Historia wizualizacji danych" /><published>2023-06-11T11:59:00+00:00</published><updated>2023-06-11T11:59:00+00:00</updated><id>https://szymok.github.io/blog/2023/history-visualization</id><content type="html" xml:base="https://szymok.github.io/blog/2023/history-visualization/"><![CDATA[<figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/History-of-Data-Visualization-11-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/History-of-Data-Visualization-11-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/History-of-Data-Visualization-11-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/History-of-Data-Visualization-11.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+<div class="caption">
+    Diagram nawiązujący do wizualizacji danych i historii.  
+</div>
+
+<h2 id="historia-wizualizacji-danych">Historia wizualizacji danych</h2>
 
 <p>Wizualizacja danych ma długą i fascynującą historię, sięgającą głęboko w przeszłość. Od prymitywnych malowideł naskalnych po dzisiejsze zaawansowane narzędzia komputerowe, wizualizacja danych odegrała znaczącą rolę w rozwijaniu naszego zrozumienia informacji i przedstawianiu jej w sposób zarówno atrakcyjny, jak i efektywny. W pierwszym rozdziale tej książki przyjrzymy się początkom wizualizacji danych i dowiemy się, jak nasza zdolność do przedstawiania informacji wizualnie ewoluowała na przestrzeni wieków.</p>
 
@@ -292,7 +312,7 @@
 
 <p>Oczekuje się, że przyszłość przyniesie jeszcze więcej innowacji w dziedzinie wizualizacji danych, a jej znaczenie będzie dalej rosnąć. Jak pokazuje historia, potencjał tej dziedziny jest nieograniczony, a nasza zdolność do wykorzystania danych w celu zrozumienia świata wciąż się rozwija.</p>
 
-<hr />]]></content><author><name></name></author><category term="article" /><category term="analiza-danych" /><category term="narzedzia" /><category term="historia" /><category term="wizualizacje" /><category term="visualization" /><category term="edukacja" /><summary type="html"><![CDATA[Pierwsza część artykułu, który skupia sie na historii wizualizacji danych]]></summary></entry><entry><title type="html">Wykorzystywanie AI w pisaniu artykułów</title><link href="https://szymok.github.io/blog/2023/ai-writing/" rel="alternate" type="text/html" title="Wykorzystywanie AI w pisaniu artykułów" /><published>2023-03-13T00:10:00+00:00</published><updated>2023-03-13T00:10:00+00:00</updated><id>https://szymok.github.io/blog/2023/ai-writing</id><content type="html" xml:base="https://szymok.github.io/blog/2023/ai-writing/"><![CDATA[<figure>
+<hr />]]></content><author><name></name></author><category term="article" /><category term="analiza-danych" /><category term="narzedzia" /><category term="historia" /><category term="wizualizacje" /><category term="visualization" /><category term="edukacja" /><summary type="html"><![CDATA[Artykuł, który skupia sie na historii wizualizacji danych]]></summary></entry><entry><title type="html">Wykorzystywanie AI w pisaniu artykułów</title><link href="https://szymok.github.io/blog/2023/ai-writing/" rel="alternate" type="text/html" title="Wykorzystywanie AI w pisaniu artykułów" /><published>2023-03-13T00:10:00+00:00</published><updated>2023-03-13T00:10:00+00:00</updated><id>https://szymok.github.io/blog/2023/ai-writing</id><content type="html" xml:base="https://szymok.github.io/blog/2023/ai-writing/"><![CDATA[<figure>
 
   <picture>
     
