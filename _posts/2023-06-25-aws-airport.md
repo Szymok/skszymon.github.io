@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Usługi Amazona a spóźnienie się na lot, jak nam pomaga? 
-date: 2023-06-25 11:42:12
+date: 2023-06-25 08:42:12
 description: Krótkie przedstawienie usług AWS, które pomagają w przypadku problemów na lotnisku.
 tags: analiza-danych aws amazon s3 lambda airport lotnisko technologia ai machine-learning
 categories: article
