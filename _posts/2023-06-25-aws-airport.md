@@ -31,15 +31,15 @@ Tak jak w wielu przypadkach, przegapienie lotu przez tę grupę przyjaciół to 
 Nie jest rzadkością, że pasażerowie spóźniają się na swój lot, nawet po otrzymaniu karty pokładowej, jak mogliśmy zobaczyć w powyższej anegdocie. Istnieje kilka powodów, dlaczego tak się dzieje.
 <ul>
 
-<li> Niedoszacowanie wymaganego czasu: Pasażerowie mogą nie zdawać sobie sprawy, ile czasu potrzebują, aby dotrzeć do bramki, zwłaszcza jeśli nie znają lotniska lub mają do pokonania duże odległości. Mogą również niedoszacować czasu potrzebnego na kontrole bezpieczeństwa i inne procedury.
+<li> Niedoszacowanie wymaganego czasu: Pasażerowie mogą nie zdawać sobie sprawy, ile czasu potrzebują, aby dotrzeć do bramki, zwłaszcza jeśli nie znają lotniska lub mają do pokonania duże odległości. Mogą również niedoszacować czasu potrzebnego na kontrole bezpieczeństwa i inne procedury.</li>
 
-<li> Opóźnienia lotów: Nawet jeśli została wydana karta pokładowa, loty mogą być opóźnione z różnych powodów, takich jak pogoda, problemy techniczne lub zator ruchu lotniczego. Pasażerowie mogą nie zdawać sobie sprawy, że ich lot został opóźniony i przegapić czas wejścia na pokład.
+<li> Opóźnienia lotów: Nawet jeśli została wydana karta pokładowa, loty mogą być opóźnione z różnych powodów, takich jak pogoda, problemy techniczne lub zator ruchu lotniczego. Pasażerowie mogą nie zdawać sobie sprawy, że ich lot został opóźniony i przegapić czas wejścia na pokład.</li>
 
-<li> Wolne wejście na pokład: Proces wejścia na pokład może potrwać długo, zwłaszcza jeśli pasażerowie nie stosują się do instrukcji linii lotniczych. To może prowadzić do opóźnień, utraty połączeń i innych problemów.
+<li> Wolne wejście na pokład: Proces wejścia na pokład może potrwać długo, zwłaszcza jeśli pasażerowie nie stosują się do instrukcji linii lotniczych. To może prowadzić do opóźnień, utraty połączeń i innych problemów.</li>
 
-<li> Problemy z bezpieczeństwem: Pasażerowie mogą mieć problemy z bezpieczeństwem, takie jak niemożność zabrania określonych przedmiotów na pokładzie lub konieczność dodatkowej kontroli. To może powodować opóźnienia.
+<li> Problemy z bezpieczeństwem: Pasażerowie mogą mieć problemy z bezpieczeństwem, takie jak niemożność zabrania określonych przedmiotów na pokładzie lub konieczność dodatkowej kontroli. To może powodować opóźnienia.</li>
 
-<li> Problemy komunikacyjne: Linie lotnicze mogą nie dostarczać jasnych instrukcji ani nie efektywnie komunikować się z pasażerami podczas procesu wejścia na pokład. Nagłe zmiany bramek mogą prowadzić do zamieszania i opóźnień.
+<li> Problemy komunikacyjne: Linie lotnicze mogą nie dostarczać jasnych instrukcji ani nie efektywnie komunikować się z pasażerami podczas procesu wejścia na pokład. Nagłe zmiany bramek mogą prowadzić do zamieszania i opóźnień.</li>
 </ul>
 
 Interesujące jest, że w ostatnich latach lotniska na całym świecie wprowadzają nowoczesne technologie, takie jak sztuczna inteligencja, chmura obliczeniowa i uczenie maszynowe, aby zapobiec sytuacjom, w których pasażerowie przegapiają swoje loty. Dzięki wykorzystaniu zaawansowanych algorytmów i analizie danych, te technologie mogą pomóc w zoptymalizowaniu procesów lotniskowych i minimalizacji opóźnień.
@@ -81,21 +81,21 @@ AWS oferuje szereg usług AI, ML, analizy danych i IoT (Internet rzeczy), które
 Do stworzenia bezproblemowego rozwiązania bookowania na lot można wykorzystać następujące usługi:
 
 <ul>
-<li> Amazon SageMaker: To kompleksowo zarządzana usługa, która dostarcza deweloperom i naukowcom narzędzi do budowania, trenowania i wdrażania modeli uczenia maszynowego na dużą skalę.
+<li> Amazon SageMaker: To kompleksowo zarządzana usługa, która dostarcza deweloperom i naukowcom narzędzi do budowania, trenowania i wdrażania modeli uczenia maszynowego na dużą skalę.</li>
 
-<li> Amazon Rekognition: Usługa analizy obrazów i wideo oparta na głębokim uczeniu, która może wykrywać obiekty, twarze i tekst na obrazach i wideo.
+<li> Amazon Rekognition: Usługa analizy obrazów i wideo oparta na głębokim uczeniu, która może wykrywać obiekty, twarze i tekst na obrazach i wideo.</li>
 
-<li> Amazon Comprehend: Usługa przetwarzania języka naturalnego, która może analizować tekst i wydobywać z niego informacje takie jak sentyment, jednostki i kluczowe frazy.
+<li> Amazon Comprehend: Usługa przetwarzania języka naturalnego, która może analizować tekst i wydobywać z niego informacje takie jak sentyment, jednostki i kluczowe frazy.</li>
 
-<li> Amazon Polly: Usługa text-to-speech, która może przekształcać tekst w realistyczne mowy w wielu językach i głosach.
+<li> Amazon Polly: Usługa text-to-speech, która może przekształcać tekst w realistyczne mowy w wielu językach i głosach.</li>
 
-<li> Amazon Translate: Usługa tłumaczenia maszynowego oparta na sieciach neuronowych, która może tłumaczyć tekst między językami z dużą precyzją.
+<li> Amazon Translate: Usługa tłumaczenia maszynowego oparta na sieciach neuronowych, która może tłumaczyć tekst między językami z dużą precyzją.</li>
 
-<li> Amazon Transcribe: Usługa automatycznego rozpoznawania mowy, która może transkrybować pliki audio i wideo na tekst.
+<li> Amazon Transcribe: Usługa automatycznego rozpoznawania mowy, która może transkrybować pliki audio i wideo na tekst.</li>
 
-<li> Amazon Forecast: Kompleksowo zarządzana usługa prognozowania, która wykorzystuje uczenie maszynowe do dostarczania wysoce precyzyjnych prognoz.
+<li> Amazon Forecast: Kompleksowo zarządzana usługa prognozowania, która wykorzystuje uczenie maszynowe do dostarczania wysoce precyzyjnych prognoz.</li>
 
-<li> Amazon Personalize: Usługa, która zapewnia rekomendacje w czasie rzeczywistym dotyczące treści, produktów i usług, wykorzystując algorytmy uczenia maszynowego.
+<li> Amazon Personalize: Usługa, która zapewnia rekomendacje w czasie rzeczywistym dotyczące treści, produktów i usług, wykorzystując algorytmy uczenia maszynowego.</li>
 </ul>
 
 ***
