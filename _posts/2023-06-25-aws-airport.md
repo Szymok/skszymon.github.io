@@ -40,6 +40,7 @@ Nie jest rzadkością, że pasażerowie spóźniają się na swój lot, nawet po
 <li> Problemy z bezpieczeństwem: Pasażerowie mogą mieć problemy z bezpieczeństwem, takie jak niemożność zabrania określonych przedmiotów na pokładzie lub konieczność dodatkowej kontroli. To może powodować opóźnienia.
 
 <li> Problemy komunikacyjne: Linie lotnicze mogą nie dostarczać jasnych instrukcji ani nie efektywnie komunikować się z pasażerami podczas procesu wejścia na pokład. Nagłe zmiany bramek mogą prowadzić do zamieszania i opóźnień.
+</ul>
 
 Interesujące jest, że w ostatnich latach lotniska na całym świecie wprowadzają nowoczesne technologie, takie jak sztuczna inteligencja, chmura obliczeniowa i uczenie maszynowe, aby zapobiec sytuacjom, w których pasażerowie przegapiają swoje loty. Dzięki wykorzystaniu zaawansowanych algorytmów i analizie danych, te technologie mogą pomóc w zoptymalizowaniu procesów lotniskowych i minimalizacji opóźnień.
 
@@ -95,6 +96,7 @@ Do stworzenia bezproblemowego rozwiązania bookowania na lot można wykorzystać
 <li> Amazon Forecast: Kompleksowo zarządzana usługa prognozowania, która wykorzystuje uczenie maszynowe do dostarczania wysoce precyzyjnych prognoz.
 
 <li> Amazon Personalize: Usługa, która zapewnia rekomendacje w czasie rzeczywistym dotyczące treści, produktów i usług, wykorzystując algorytmy uczenia maszynowego.
+</ul>
 
 ***
 
