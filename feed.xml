@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://szymok.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://szymok.github.io/" rel="alternate" type="text/html" hreflang="pl" /><updated>2023-06-18T12:52:22+00:00</updated><id>https://szymok.github.io/feed.xml</id><title type="html">blank</title><subtitle>Blog o analizie danych i sztucznej inteligencji. To dwa kluczowe narzędzia wspierające decyzje biznesowe i pozwalające na uzyskanie przewagi konkurencyjnej.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://szymok.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://szymok.github.io/" rel="alternate" type="text/html" hreflang="pl" /><updated>2023-06-25T10:20:33+00:00</updated><id>https://szymok.github.io/feed.xml</id><title type="html">blank</title><subtitle>Blog o analizie danych i sztucznej inteligencji. To dwa kluczowe narzędzia wspierające decyzje biznesowe i pozwalające na uzyskanie przewagi konkurencyjnej.
 </subtitle><entry><title type="html">Historia wizualizacji danych</title><link href="https://szymok.github.io/blog/2023/history-visualization/" rel="alternate" type="text/html" title="Historia wizualizacji danych" /><published>2023-06-11T11:59:00+00:00</published><updated>2023-06-11T11:59:00+00:00</updated><id>https://szymok.github.io/blog/2023/history-visualization</id><content type="html" xml:base="https://szymok.github.io/blog/2023/history-visualization/"><![CDATA[<figure>
 
   <picture>
@@ -172,7 +172,7 @@
 
 <hr />
 
-<h3 id="charles-minard-wizualizacja-danych-wojennych">Charles Minard: Wizualizacja danych wojennych</h3>
+<h2 id="charles-minard-wizualizacja-danych-wojennych">Charles Minard: Wizualizacja danych wojennych</h2>
 
 <p>Charles Minard, francuski inżynier i ekonomista, jest sławny z powodu swojej niezwykłej umiejętności prezentowania skomplikowanych danych w prosty i zrozumiały sposób. Minard jest najbardziej znany z wyjątkowego diagramu przedstawiającego katastrofalną kampanię Napoleona w Rosji w 1812 roku. Ta innowacyjna wizualizacja, często uważana za “najlepszy wykres statystyczny wszech czasów”, jednocześnie ilustruje sześć różnych zmiennych: liczbę wojsk, odległość, temperaturę, datę, kierunek ruchu i lokalizację.</p>
 
