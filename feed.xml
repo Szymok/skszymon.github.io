@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://szymok.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://szymok.github.io/" rel="alternate" type="text/html" hreflang="pl" /><updated>2023-06-25T10:53:49+00:00</updated><id>https://szymok.github.io/feed.xml</id><title type="html">blank</title><subtitle>Blog o analizie danych i sztucznej inteligencji. To dwa kluczowe narzędzia wspierające decyzje biznesowe i pozwalające na uzyskanie przewagi konkurencyjnej.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://szymok.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://szymok.github.io/" rel="alternate" type="text/html" hreflang="pl" /><updated>2023-06-25T11:00:26+00:00</updated><id>https://szymok.github.io/feed.xml</id><title type="html">blank</title><subtitle>Blog o analizie danych i sztucznej inteligencji. To dwa kluczowe narzędzia wspierające decyzje biznesowe i pozwalające na uzyskanie przewagi konkurencyjnej.
 </subtitle><entry><title type="html">Usługi Amazona a spóźnienie się na lot, jak nam pomaga?</title><link href="https://szymok.github.io/blog/2023/aws-airport/" rel="alternate" type="text/html" title="Usługi Amazona a spóźnienie się na lot, jak nam pomaga?" /><published>2023-06-25T08:42:12+00:00</published><updated>2023-06-25T08:42:12+00:00</updated><id>https://szymok.github.io/blog/2023/aws-airport</id><content type="html" xml:base="https://szymok.github.io/blog/2023/aws-airport/"><![CDATA[<h2 id="wstęp">Wstęp</h2>
 <p>Choć to historia mogłaby wydawać się jak scena z filmu, jest to tylko wymyślony scenariusz, stworzony na potrzeby tego artykułu. Celem tego opisu jest zilustrowanie, jak łatwo można przegapić lot, gdy nie jesteśmy świadomi konsekwencji niezauważenia upływu czasu na lotnisku.*</p>
 
@@ -29,6 +29,7 @@
 <li> Problemy z bezpieczeństwem: Pasażerowie mogą mieć problemy z bezpieczeństwem, takie jak niemożność zabrania określonych przedmiotów na pokładzie lub konieczność dodatkowej kontroli. To może powodować opóźnienia.
 
 <li> Problemy komunikacyjne: Linie lotnicze mogą nie dostarczać jasnych instrukcji ani nie efektywnie komunikować się z pasażerami podczas procesu wejścia na pokład. Nagłe zmiany bramek mogą prowadzić do zamieszania i opóźnień.
+&lt;/ul&gt;
 
 Interesujące jest, że w ostatnich latach lotniska na całym świecie wprowadzają nowoczesne technologie, takie jak sztuczna inteligencja, chmura obliczeniowa i uczenie maszynowe, aby zapobiec sytuacjom, w których pasażerowie przegapiają swoje loty. Dzięki wykorzystaniu zaawansowanych algorytmów i analizie danych, te technologie mogą pomóc w zoptymalizowaniu procesów lotniskowych i minimalizacji opóźnień.
 
@@ -84,6 +85,7 @@ Do stworzenia bezproblemowego rozwiązania bookowania na lot można wykorzystać
 <li> Amazon Forecast: Kompleksowo zarządzana usługa prognozowania, która wykorzystuje uczenie maszynowe do dostarczania wysoce precyzyjnych prognoz.
 
 <li> Amazon Personalize: Usługa, która zapewnia rekomendacje w czasie rzeczywistym dotyczące treści, produktów i usług, wykorzystując algorytmy uczenia maszynowego.
+&lt;/ul&gt;
 
 ***
 
