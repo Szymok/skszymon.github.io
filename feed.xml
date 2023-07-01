@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://szymok.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://szymok.github.io/" rel="alternate" type="text/html" hreflang="pl" /><updated>2023-06-25T18:42:48+00:00</updated><id>https://szymok.github.io/feed.xml</id><title type="html">blank</title><subtitle>Blog o analizie danych i sztucznej inteligencji. To dwa kluczowe narzędzia wspierające decyzje biznesowe i pozwalające na uzyskanie przewagi konkurencyjnej.
-</subtitle><entry><title type="html">Usługi Amazona a spóźnienie się na lot, jak nam pomaga?</title><link href="https://szymok.github.io/blog/2023/aws-airport/" rel="alternate" type="text/html" title="Usługi Amazona a spóźnienie się na lot, jak nam pomaga?" /><published>2023-06-25T08:42:12+00:00</published><updated>2023-06-25T08:42:12+00:00</updated><id>https://szymok.github.io/blog/2023/aws-airport</id><content type="html" xml:base="https://szymok.github.io/blog/2023/aws-airport/"><![CDATA[<h2 id="wstęp">Wstęp</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pl"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://szymok.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://szymok.github.io/" rel="alternate" type="text/html" hreflang="pl" /><updated>2023-07-01T13:00:31+00:00</updated><id>https://szymok.github.io/feed.xml</id><title type="html">blank</title><subtitle>Blog o analizie danych i sztucznej inteligencji. To dwa kluczowe narzędzia wspierające decyzje biznesowe i pozwalające na uzyskanie przewagi konkurencyjnej.
+</subtitle><entry><title type="html">AWS a linie lotnicze, jak to działa?</title><link href="https://szymok.github.io/blog/2023/aws-airport/" rel="alternate" type="text/html" title="AWS a linie lotnicze, jak to działa?" /><published>2023-06-25T08:42:12+00:00</published><updated>2023-06-25T08:42:12+00:00</updated><id>https://szymok.github.io/blog/2023/aws-airport</id><content type="html" xml:base="https://szymok.github.io/blog/2023/aws-airport/"><![CDATA[<h2 id="wstęp">Wstęp</h2>
 <p>Choć to historia mogłaby wydawać się jak scena z filmu, jest to tylko wymyślony scenariusz, stworzony na potrzeby tego artykułu. Celem tego opisu jest zilustrowanie, jak łatwo można przegapić lot, gdy nie jesteśmy świadomi konsekwencji niezauważenia upływu czasu na lotnisku.*</p>
 
 <p>Grupa przyjaciół przybyła na Lotnisko Chopina w Warszawie z dużym wyprzedzeniem przed planowanym odlotem. Byli podekscytowani zbliżającą się podróżą do Nowego Jorku - mieli spędzić tam dwa tygodnie, zwiedzając miasto i ciesząc się amerykańskim stylem życia. Po odprawie bagażu, kontroli bezpieczeństwa i przepustkach imigracyjnych, zdecydowali się na krótki odpoczynek w jednej z restauracji lotniska.</p>
@@ -28,7 +28,7 @@
 
 <li> Problemy z bezpieczeństwem: Pasażerowie mogą mieć problemy z bezpieczeństwem, takie jak niemożność zabrania określonych przedmiotów na pokładzie lub konieczność dodatkowej kontroli. To może powodować opóźnienia.</li>
 
-<li> Problemy komunikacyjne: Linie lotnicze mogą nie dostarczać jasnych instrukcji ani nie efektywnie komunikować się z pasażerami podczas procesu wejścia na pokład. Nagłe zmiany bramek mogą prowadzić do zamieszania i opóźnień.</li>
+<li> Problemy komunikacyjne: Linie lotnicze mogą nie dostarczać jasnych instrukcji ani nieefektywnie komunikować się z pasażerami podczas procesu wejścia na pokład. Nagłe zmiany bramek mogą prowadzić do zamieszania i opóźnień.</li>
 </ul>
 
 <p>Interesujące jest, że w ostatnich latach lotniska na całym świecie wprowadzają nowoczesne technologie, takie jak sztuczna inteligencja, chmura obliczeniowa i uczenie maszynowe, aby zapobiec sytuacjom, w których pasażerowie przegapiają swoje loty. Dzięki wykorzystaniu zaawansowanych algorytmów i analizie danych, te technologie mogą pomóc w zoptymalizowaniu procesów lotniskowych i minimalizacji opóźnień.</p>
@@ -45,15 +45,15 @@
 
 <h2 id="możliwości-jakie-daje-ai-i-ml">Możliwości jakie daje AI i ML</h2>
 
-<p>Sztuczna inteligencja i uczenie maszynowe mogą pomóc w rozwiązaniu większości z powyższych problemów. Wykorzystajmy ten sam anegdot, aby zobaczyć jak.</p>
+<p>Sztuczna inteligencja i uczenie maszynowe mogą pomóc w rozwiązaniu większości z powyższych problemów. Wykorzystajmy tę samą anegdotę, aby zobaczyć jak.</p>
 
 <p>Podróżująca grupa przyjaciół z niecierpliwością czekała na wizytę u swojej rodziny w Ameryce przez wiele miesięcy. Przybyła na lotnisko w Dubaju na cztery godziny przed swoim lotem, odprawiła bagaż i przeszła przez kontrole imigracyjne i bezpieczeństwa. Ponieważ miała kilka godzin do wylotu, postanowiła zrobić trochę zakupów i zjeść coś. Jednak straciła poczucie czasu i nie wiedziała, że powinna dotrzeć do bramki na 30 minut przed planowanym odlotem samolotu.</p>
 
 <p>Na szczęście lotnisko miało system bookingu oparty na AI, który gwarantował bezproblemowe bookowanie wszystkich pasażerów. System ten wykorzystywał Internet rzeczy (IoT) i uczenie maszynowe do śledzenia ruchów pasażerów na lotnisku i szacowania ich czasu przybycia do bramki.</p>
 
-<p>Kiedy system przewidział, że przyjaciele mogą się spóźnić, natychmiast zaalarmował pracowników bramki i personel linii lotniczych, aby ją zlokalizować. System ten wykorzystywał technologię rozpoznawania twarzy i inne technologie śledzenia, aby precyzyjnie zlokalizować jej miejsce na lotnisku, a w ciągu kilku minut pracownik lotniska był w stanie ją znaleźć i odprowadzić do bramki.</p>
+<p>Kiedy system przewidział, że przyjaciele mogą się spóźnić, natychmiast zaalarmował pracowników bramki i personel linii lotniczych, aby ich zlokalizować. System ten wykorzystywał technologię rozpoznawania twarzy i inne technologie śledzenia, aby precyzyjnie zlokalizować ich miejsce na lotnisku, a w ciągu kilku minut pracownik lotniska był w stanie ich znaleźć i odprowadzić do bramki.</p>
 
-<p>Spóźnieni mogła bezproblemowo wejść na pokład swojego lotu, a także cieszyć się zrobionymi zakupami - wszystko to dzięki bezproblemowemu i efektywnemu procesowi bookingu, który umożliwiły AI, IoT i uczenie maszynowe.</p>
+<p>Spóźnieni mogli bezproblemowo wejść na pokład swojego lotu, a także cieszyć się zrobionymi zakupami - wszystko to dzięki bezproblemowemu i efektywnemu procesowi bookingu, który umożliwiły AI, IoT i uczenie maszynowe.</p>
 
 <p>Fakty są takie, że technologia AI i uczenie maszynowe stają się coraz bardziej niezbędne w świecie lotnictwa. Możemy oczekiwać, że tego typu systemy staną się coraz bardziej powszechne w przyszłości, zapewniając lepszą organizację i wygodę dla pasażerów. Ciekawe jest to, jak technologia może przekształcić prozaiczne zadania, takie jak czekanie na lot, w bardziej przyjemne i bezstresowe doświadczenia. W przyszłości możemy spodziewać się jeszcze więcej innowacyjnych rozwiązań z wykorzystaniem AI, IoT i uczenia maszynowego w branży lotniczej.</p>
 
@@ -65,7 +65,7 @@
 
 <p>Na przykład, beacony mogą pokryć obszar od 5m do 2,5km. Wysyłają one sygnały do urządzeń, takich jak telefony komórkowe, które są mapowane z ich lokalizacją. Te informacje są przechowywane w AWS RDS, co pomaga w detekcji lokalizacji pasażera. Można także wykorzystać kamery do śledzenia ruchów.</p>
 
-<p>AWS oferuje szereg usług AI, ML, analizy danych i IoT (Internet rzeczy), które można wykorzystać do budowania inteligentnych i opartych na danych aplikacji. Niektóre z tych kluczowych usług są wymienione w Tabeli I.</p>
+<p>AWS oferuje szereg usług AI, ML, analizy danych i IoT (Internet rzeczy), które można wykorzystać do budowania inteligentnych i opartych na danych aplikacji.</p>
 
 <p>Do stworzenia bezproblemowego rozwiązania bookowania na lot można wykorzystać następujące usługi:</p>
 
@@ -94,20 +94,24 @@
 <p>Amazon SageMaker to potężna platforma uczenia maszynowego z standardowym interfejsem, która dostarcza kompletny zestaw narzędzi i usług do szybkiego budowania, trenowania i wdrażania modeli uczenia maszynowego na dużą skalę. SageMaker wykorzystuje kontenery do opakowania ulubionych algorytmów i frameworków, w tym wbudowanych algorytmów takich jak XGBoost, DeepAR i FM, a także frameworków takich jak PyTorch, SKLearn i TensorFlow.</p>
 
 <p>Niektóre z kluczowych usług dostarczanych przez Amazon SageMaker to:</p>
+<ul>
 
-<p>Etykietowanie danych: Ground Truth w SageMakerze to w pełni zarządzana usługa etykietowania danych, która ułatwia etykietowanie zestawów danych za pomocą anotatorów ludzkich lub wbudowanych modeli uczenia maszynowego.</p>
+<li>Etykietowanie danych: Ground Truth w SageMakerze to w pełni zarządzana usługa etykietowania danych, która ułatwia etykietowanie zestawów danych za pomocą anotatorów ludzkich lub wbudowanych modeli uczenia maszynowego.</li>
 
-<p>Budowanie modeli: SageMaker oferuje szereg wbudowanych algorytmów i frameworków do budowania, trenowania i wdrażania modeli uczenia maszynowego. Obsługuje także tworzenie niestandardowych algorytmów przy użyciu popularnych frameworków takich jak TensorFlow, MXNet i PyTorch.</p>
+<li>Budowanie modeli: SageMaker oferuje szereg wbudowanych algorytmów i frameworków do budowania, trenowania i wdrażania modeli uczenia maszynowego. Obsługuje także tworzenie niestandardowych algorytmów przy użyciu popularnych frameworków takich jak TensorFlow, MXNet i PyTorch.</li>
 
-<p>Trenowanie modeli: SageMaker zapewnia skalowalne i rozproszone środowisko treningowe (z wykorzystaniem GPU i wielu instancji), które pomaga w trenowaniu efektywnych modeli uczenia maszynowego na dużych zbiorach danych.</p>
+<li>Trenowanie modeli: SageMaker zapewnia skalowalne i rozproszone środowisko treningowe (z wykorzystaniem GPU i wielu instancji), które pomaga w trenowaniu efektywnych modeli uczenia maszynowego na dużych zbiorach danych.</li>
 
-<p>Hostowanie modeli: SageMaker zapewnia w pełni zarządzane środowisko hostowania modeli, umożliwiające deweloperom wdrażanie modeli uczenia maszynowego jako interfejsy API z automatycznym skalowaniem, monitorowaniem i możliwością debugowania.</p>
+<li>Hostowanie modeli: SageMaker zapewnia w pełni zarządzane środowisko hostowania modeli, umożliwiające deweloperom wdrażanie modeli uczenia maszynowego jako interfejsy API z automatycznym skalowaniem, monitorowaniem i możliwością debugowania.</li>
 
-<p>Tuning modeli: Amazon SageMaker oferuje usługę automatycznego strojenia modeli, która umożliwia naukowcom danych optymalizację hiperparametrów i poprawę dokładności modelu bez konieczności ingerencji manualnej. Wnioskowanie w czasie rzeczywistym: SageMaker zapewnia w pełni zarządzaną, wysoko dostępną usługę wnioskowania w czasie rzeczywistym, która może skalować się, aby obsłużyć miliony żądań na sekundę.</p>
+<li>Tuning modeli: Amazon SageMaker oferuje usługę automatycznego strojenia modeli, która umożliwia naukowcom danych optymalizację hiperparametrów i poprawę dokładności modelu bez konieczności ingerencji manualnej.</li>
 
-<p>Wnioskowanie wsadowe: Amazon SageMaker dostarcza w pełni zarządzaną usługę wnioskowania wsadowego, która może przetwarzać duże ilości danych i dostarczać predykcje w sposób kosztowo efektywny. Pełny workflow uczenia maszynowego: Amazon SageMaker zapewnia pełen workflow uczenia maszynowego, obejmujący przygotowanie danych, inżynierię cech, trening modelu, wdrażanie i monitorowanie.</p>
+<li>Wnioskowanie w czasie rzeczywistym: SageMaker zapewnia w pełni zarządzaną, wysoko dostępną usługę wnioskowania w czasie rzeczywistym, która może skalować się, aby obsłużyć miliony żądań na sekundę.</li>
 
-<p>Integracja z innymi usługami AWS: Amazon SageMaker integruje się z innymi usługami AWS, takimi jak S3, Lambda, Step Functions i CloudFormation, aby zapewnić spójne doświadczenie z uczeniem maszynowym. Dzięki usługom Amazon SageMaker lotniska mogą skutecznie budować, trenować i wdrażać modele uczenia maszynowego, a także obsługiwać wnioskowanie w czasie rzeczywistym i wsadowe. To zapewnia płynne i efektywne procesy związane z analizą danych i predykcją, co ma zastosowanie w rozwiązaniach zaokrętowania na lot.</p>
+<li>Wnioskowanie wsadowe: Amazon SageMaker dostarcza w pełni zarządzaną usługę wnioskowania wsadowego, która może przetwarzać duże ilości danych i dostarczać predykcje w sposób kosztowo efektywny. Pełny workflow uczenia maszynowego: Amazon SageMaker zapewnia pełen workflow uczenia maszynowego, obejmujący przygotowanie danych, inżynierię cech, trening modelu, wdrażanie i monitorowanie.</li>
+
+<li>Integracja z innymi usługami AWS: Amazon SageMaker integruje się z innymi usługami AWS, takimi jak S3, Lambda, Step Functions i CloudFormation, aby zapewnić spójne doświadczenie z uczeniem maszynowym. Dzięki usługom Amazon SageMaker lotniska mogą skutecznie budować, trenować i wdrażać modele uczenia maszynowego, a także obsługiwać wnioskowanie w czasie rzeczywistym i wsadowe. To zapewnia płynne i efektywne procesy związane z analizą danych i predykcją, co ma zastosowanie w liniach lotniczych.</li>
+</ul>
 
 <hr />
 
@@ -121,59 +125,62 @@
 
 <hr />
 
-<h2 id="tworzenie-opartej-na-aiml-rozwiązania-do-obsługi-lotu">Tworzenie opartej na AI/ML rozwiązania do obsługi lotu</h2>
+<h2 id="tworzenie-opartego-na-aiml-rozwiązania-do-obsługi-lotu">Tworzenie opartego na AI/ML rozwiązania do obsługi lotu</h2>
 
-<p>Wybór algorytmu
-Nasze rozwiązanie wykorzystuje algorytm XGBoost do binarnej klasyfikacji, popularny wybór do przewidywania wystąpienia zdarzenia na podstawie zestawu cech wejściowych. Staramy się przewidzieć, czy pasażer, który odprawił bagaż i robi zakupy, dotrze do bramki wejściowej 30 minut przed planowym czasem odlotu lotu. Wbudowany algorytm XGBoost w SageMaker ułatwia trenowanie i wdrażanie potężnych modeli uczenia maszynowego. Dzięki niewielkiemu przygotowaniu danych i dostrojeniu hiperparametrów, budowanie modeli, które szybko dokonują dokładnych prognoz w różnych zadaniach, jest prostym procesem. SageMaker dostarcza Jupyter Notebook w chmurze, który jest łatwy w tworzeniu i używaniu. Oto kroki postępowania:</p>
+<p>Nasze rozwiązanie wykorzystuje algorytm XGBoost do binarnej klasyfikacji, popularny wybór do przewidywania wystąpienia zdarzenia na podstawie zestawu cech wejściowych. Staramy się przewidzieć, czy pasażer, który odprawił bagaż i robi zakupy, dotrze do bramki wejściowej 30 minut przed planowym czasem odlotu lotu. Wbudowany algorytm XGBoost w SageMaker ułatwia trenowanie i wdrażanie potężnych modeli uczenia maszynowego. Dzięki niewielkiemu przygotowaniu danych i dostrojeniu hiperparametrów, budowanie modeli, które szybko dokonują dokładnych prognoz w różnych zadaniach, jest prostym procesem. SageMaker dostarcza Jupyter Notebook w chmurze, który jest łatwy w tworzeniu i używaniu. Oto kroki postępowania:</p>
 
-<p>Przygotowanie danych: Nasze dane powinny być w formacie, z którym XGBoost może pracować. Zazwyczaj oznacza to plik CSV z kolumnami dla cech i kolumną docelową dla etykiety.</p>
+<ul>
+<li>Przygotowanie danych: Nasze dane powinny być w formacie, z którym XGBoost może pracować. Zazwyczaj oznacza to plik CSV z kolumnami dla cech i kolumną docelową dla etykiety.</li>
 
-<p>Przesyłanie danych: Musimy przesłać dane do kubełka S3, aby SageMaker mógł na niego uzyskać dostęp.</p>
+<li>Przesyłanie danych: Musimy przesłać dane do kubełka S3, aby SageMaker mógł na niego uzyskać dostęp.</li>
 
-<p>Tworzenie zadania trenującego: Możemy utworzyć zadanie trenujące, określając lokalizację danych treningowych w S3/Datalake oraz hiperparametry, których chcemy użyć dla algorytmu XGBoost. Można to zrobić za pośrednictwem konsoli SageMaker, pakietu SDK SageMaker lub AWS CLL.</p>
+<li>Tworzenie zadania trenującego: Możemy utworzyć zadanie trenujące, określając lokalizację danych treningowych w S3/Datalake oraz hiperparametry, których chcemy użyć dla algorytmu XGBoost. Można to zrobić za pośrednictwem konsoli SageMaker, pakietu SDK SageMaker lub AWS CLL.</li>
 
-<p>Monitorowanie zadania trenującego: Po rozpoczęciu zadania trenującego możemy monitorować jego postęp za pośrednictwem konsoli SageMaker lub pakietu SDK.</p>
+<li>Monitorowanie zadania trenującego: Po rozpoczęciu zadania trenującego możemy monitorować jego postęp za pośrednictwem konsoli SageMaker lub pakietu SDK.</li>
 
-<p>Wdrażanie modelu: Po zakończeniu zadania trenującego możemy wdrożyć wytrenowany model jako punkt końcowy, który może być używany do wnioskowania.</p>
+<li>Wdrażanie modelu: Po zakończeniu zadania trenującego możemy wdrożyć wytrenowany model jako punkt końcowy, który może być używany do wnioskowania.</li>
 
-<p>Testowanie modelu: Możemy przetestować wdrożony model, wysyłając nowe dane i obserwując predykcje, które generuje.</p>
+<li>Testowanie modelu: Możemy przetestować wdrożony model, wysyłając nowe dane i obserwując predykcje, które generuje.</li>
 
+</ul>
 <h3 id="dane-wejściowe">Dane wejściowe</h3>
 <p>Dane wejściowe dla naszego modelu składają się z zestawu cech dotyczących ruchu pasażera w obrębie lotniska, jego zachowania podczas zakupów i czasu przybycia na lotnisko. Te cechy są zbierane za pomocą urządzeń IoT, takich jak kamery, beacons i czujniki rozmieszczone w całym lotnisku.</p>
 
 <p>Oto cechy wejściowe, które zostały użyte w naszym modelu:</p>
 
-<p>Czas przybycia: Dane dotyczące czasu, o którym pasażer przybywa na lotnisko, są zbierane od pasażerów, którzy już dokonali odprawy online. Czujniki IoT przy wejściu na lotnisko zbierają te dane i przekazują je do magazynu danych. Dla pasażerów, którzy nie dokonali odprawy online, dane te są gromadzone na stanowisku odprawy lub w automacie, z którego otrzymuje się kartę pokładową.</p>
+<ul>
+<li>Czas przybycia: Dane dotyczące czasu, o którym pasażer przybywa na lotnisko, są zbierane od pasażerów, którzy już dokonali odprawy online. Czujniki IoT przy wejściu na lotnisko zbierają te dane i przekazują je do magazynu danych. Dla pasażerów, którzy nie dokonali odprawy online, dane te są gromadzone na stanowisku odprawy lub w automacie, z którego otrzymuje się kartę pokładową.</li>
 
-<p>Stan pasażera: Informuje, czy pasażer przeszedł kontrolę imigracyjną, kontrolę bezpieczeństwa, odprawę itp.</p>
+<li>Stan pasażera: Informuje, czy pasażer przeszedł kontrolę imigracyjną, kontrolę bezpieczeństwa, odprawę itp.</li>
 
-<p>Czas trwania zakupów: To jest czas, jaki pasażerowie spędzają na zakupach po otrzymaniu karty pokładowej i po przejściu kontroli imigracyjnej/bezpieczeństwa.</p>
+<li>Czas trwania zakupów: To jest czas, jaki pasażerowie spędzają na zakupach po otrzymaniu karty pokładowej i po przejściu kontroli imigracyjnej/bezpieczeństwa.</li>
 
-<p>Odległość od bramki: To jest odległość między strefą zakupów a bramką wejściową i jest obliczana za pomocą czujników IoT rozmieszczonych w całej strefie wolnocłowej.</p>
+<li>Odległość od bramki: To jest odległość między strefą zakupów a bramką wejściową i jest obliczana za pomocą czujników IoT rozmieszczonych w całej strefie wolnocłowej.</li>
 
-<p>Czas przybycia na bramkę: To jest czas, o którym pasażer dociera na bramkę wejściową.</p>
+<li>Czas przybycia na bramkę: To jest czas, o którym pasażer dociera na bramkę wejściową.</li> 
 
-<p>Czas przewidywania będzie stale aktualizowany w innym rejestrze, aż pasażer dotrze do bramki wejściowej. Ciągłe alertowanie wiadomości zostanie wysłane na telefon komórkowy/smartfon pasażera oraz do sprzedawcy znajdującego się w pobliżu pasażera. W odpowiednim czasie zostanie poproszona o pomoc sprzedawcy w celu poinformowania pasażera o konieczności przemieszczenia się w kierunku bramki, aby wejść na pokład samolotu. Na telewizorze również pojawi się informacja dla pasażera o konieczności przemieszczenia się w kierunku bramki. Pasażer zostanie również oznaczony na mediach społecznościowych i poproszony o przemieszczenie się w kierunku bramki. Wszystko to będzie działo się automatycznie dzięki różnym usługom AWS AI/ML, IoT i innym.</p>
+<li>Czas przewidywania będzie stale aktualizowany w innym rejestrze, aż pasażer dotrze do bramki wejściowej. Ciągłe alertowanie wiadomości zostanie wysłane na telefon komórkowy/smartfon pasażera oraz do sprzedawcy znajdującego się w pobliżu pasażera. W odpowiednim czasie zostanie poproszona o pomoc sprzedawcy w celu poinformowania pasażera o konieczności przemieszczenia się w kierunku bramki, aby wejść na pokład samolotu. Na telewizorze również pojawi się informacja dla pasażera o konieczności przemieszczenia się w kierunku bramki. Pasażer zostanie również oznaczony na mediach społecznościowych i poproszony o przemieszczenie się w kierunku bramki. Wszystko to będzie działo się automatycznie dzięki różnym usługom AWS AI/ML, IoT i innym.</li>
 
-<p>Planowany czas odlotu: To jest zaplanowany czas odlotu lotu pasażera.</p>
+<li>Planowany czas odlotu: To jest zaplanowany czas odlotu lotu pasażera.</li>
 
-<p>Opóźnienie lotu: Wskazuje opóźnienie w zaplanowanym czasie odlotu lotu pasażera.</p>
+<li>Opóźnienie lotu: Wskazuje opóźnienie w zaplanowanym czasie odlotu lotu pasażera.</li>
 
-<p>Wzorzec chodu: Jest to wzorzec chodu zarejestrowany za pomocą urządzenia noszonego przez pasażera lub smartfona. Jeśli nie jest dostępny, zostanie użyta wartość domyślna.</p>
+<li>Wzorzec chodu: Jest to wzorzec chodu zarejestrowany za pomocą urządzenia noszonego przez pasażera lub smartfona. Jeśli nie jest dostępny, zostanie użyta wartość domyślna.</li>
 
-<p>Bagaż podręczny: Te dane będą zbierane podczas odprawy, ale mogą być niejednoznaczne ze względu na dodawanie zakupów.</p>
+<li>Bagaż podręczny: Te dane będą zbierane podczas odprawy, ale mogą być niejednoznaczne ze względu na dodawanie zakupów.</li>
 
-<p>Zatłoczenie terminala: To jest miara zajętości terminala w chwili przybycia pasażera na lotnisko i na drodze do bramki. Na urządzeniu smartfona pasażera wyświetlany będzie również mapę cieplną.</p>
+<li>Zatłoczenie terminala: To jest miara zajętości terminala w chwili przybycia pasażera na lotnisko i na drodze do bramki. Na urządzeniu smartfona pasażera wyświetlany będzie również mapę cieplną.</li>
+</ul>
 
 <h3 id="przygotowanie-danych">Przygotowanie danych</h3>
 
 <p>Przed przystąpieniem do trenowania modelu przeprowadziliśmy kilka kroków przygotowawczych, jak następuje:</p>
 
-<p>Czyszczenie: Usuwanie nieprawidłowych lub brakujących danych.</p>
+<p><b>Czyszczenie:</b> Usuwanie nieprawidłowych lub brakujących danych.</p>
 
-<p>Przetwarzanie wstępne: Skalowanie cech liczbowych, aby mieć tę samą skalę, i normalizacja danych w celu poprawy wydajności modelu.</p>
+<p><b>Przetwarzanie wstępne:</b> Skalowanie cech liczbowych, aby mieć tę samą skalę, i normalizacja danych w celu poprawy wydajności modelu.</p>
 
-<p>Inżynieria cech: Tworzenie nowych cech na podstawie istniejących danych w celu poprawy dokładności modelu.</p>
+<p><b>Inżynieria cech:</b> Tworzenie nowych cech na podstawie istniejących danych w celu poprawy dokładności modelu.</p>
 
 <h3 id="trenowanie-i-wdrożenie-modelu">Trenowanie i wdrożenie modelu</h3>
 
@@ -183,11 +190,15 @@ Nasze rozwiązanie wykorzystuje algorytm XGBoost do binarnej klasyfikacji, popul
 
 <p>Następnie zintegrowaliśmy wdrożony model uczenia maszynowego z urządzeniami IoT, takimi jak kamery i czujniki, aby monitorować ruchy pasażerów i przewidywać ich czasy przybycia na bramkę.</p>
 
-<p>System alarmowy: Do zbudowania systemu alarmowego użyliśmy usługi Amazon Simple Notification Service (SNS), aby powiadamiać agentów bramkowych i personel linii lotniczych, gdy pasażerom przewidywane jest spóźnienie.</p>
+<p><b>System alarmowy:</b> Do zbudowania systemu alarmowego użyliśmy usługi Amazon Simple Notification Service (SNS), aby powiadamiać agentów bramkowych i personel linii lotniczych, gdy pasażerom przewidywane jest spóźnienie.</p>
 
-<p>System śledzenia: Do zbudowania systemu śledzenia użyliśmy rozpoznawania twarzy i innych technologii śledzenia, aby zlokalizować pasażerów, którzy mają przewidywane opóźnienie i eskortować ich do bramki.</p>
+<p><b>System śledzenia:</b> Do zbudowania systemu śledzenia użyliśmy rozpoznawania twarzy i innych technologii śledzenia, aby zlokalizować pasażerów, którzy mają przewidywane opóźnienie i eskortować ich do bramki.</p>
 
-<p>W sumie ta implementacja analizy predykcyjnej za pomocą SageMaker może pomóc liniom lotniczym optymalizować proces wejścia na pokład, przewidując, którzy pasażerowie mogą być zagrożeni spóźnieniem i podejmując proaktywne kroki, aby zapewnić, że dotrą na czas do bramki.</p>]]></content><author><name></name></author><category term="article" /><category term="analiza-danych" /><category term="aws" /><category term="amazon" /><category term="s3" /><category term="lambda" /><category term="airport" /><category term="lotnisko" /><category term="technologia" /><category term="ai" /><category term="machine-learning" /><summary type="html"><![CDATA[Krótkie przedstawienie usług AWS, które pomagają w przypadku problemów na lotnisku.]]></summary></entry><entry><title type="html">Historia wizualizacji danych</title><link href="https://szymok.github.io/blog/2023/history-visualization/" rel="alternate" type="text/html" title="Historia wizualizacji danych" /><published>2023-06-11T11:59:00+00:00</published><updated>2023-06-11T11:59:00+00:00</updated><id>https://szymok.github.io/blog/2023/history-visualization</id><content type="html" xml:base="https://szymok.github.io/blog/2023/history-visualization/"><![CDATA[<figure>
+<p>W sumie ta implementacja analizy predykcyjnej za pomocą SageMaker może pomóc liniom lotniczym optymalizować proces wejścia na pokład, przewidując, którzy pasażerowie mogą być zagrożeni spóźnieniem i podejmując proaktywne kroki, aby zapewnić, że dotrą na czas do bramki.</p>
+
+<h2 id="podsumowanie">Podsumowanie</h2>
+
+<p>Usługi AWS oferują różnorodne narzędzia i rozwiązania, które mogą zrewolucjonizować sposób działania lotnisk, prowadząc do znaczących popraw w obszarach efektywności, doświadczenia pasażera, bezpieczeństwa i zrównoważonego rozwoju. AWS IoT może usprawniać zarządzanie przepływem pasażerów, podczas gdy usługi uczenia maszynowego, takie jak Amazon SageMaker, mogą pomóc w przewidywaniu potencjalnych usterek w sprzęcie lotniskowym. Amazon Rekognition umożliwia bezproblemową odprawę i zwiększa bezpieczeństwo, a śledzenie bagażu w czasie rzeczywistym dzięki AWS IoT poprawia doświadczenia pasażerów. Z usługami analitycznymi AWS, takimi jak Amazon Redshift i Amazon Quicksight, lotniska mogą analizować ogromne ilości danych i podejmować świadome decyzje. Bezpieczne połączenia zapewnia AWS Direct Connect, a planowanie zasobów lotniska staje się bardziej efektywne dzięki mocy obliczeniowej chmury AWS. Zrównoważony rozwój jest również na wyciągnięcie ręki, dzięki zobowiązaniu Amazon do osiągnięcia 100% odnawialnego zużycia energii dla swojej globalnej infrastruktury.</p>]]></content><author><name></name></author><category term="article" /><category term="analiza-danych" /><category term="aws" /><category term="amazon" /><category term="s3" /><category term="lambda" /><category term="airport" /><category term="lotnisko" /><category term="technologia" /><category term="ai" /><category term="machine-learning" /><summary type="html"><![CDATA[Krótkie przedstawienie usług AWS, które pomagają w przypadku problemów na lotnisku.]]></summary></entry><entry><title type="html">Historia wizualizacji danych</title><link href="https://szymok.github.io/blog/2023/history-visualization/" rel="alternate" type="text/html" title="Historia wizualizacji danych" /><published>2023-06-11T11:59:00+00:00</published><updated>2023-06-11T11:59:00+00:00</updated><id>https://szymok.github.io/blog/2023/history-visualization</id><content type="html" xml:base="https://szymok.github.io/blog/2023/history-visualization/"><![CDATA[<figure>
 
   <picture>
     
