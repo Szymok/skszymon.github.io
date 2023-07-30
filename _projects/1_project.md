@@ -6,6 +6,7 @@ img: assets/img/0_m3ATEhrHMV9pHkdi.jpg
 redirect: https://9a54478e004899caf2.gradio.live
 importance: 1
 category: work
+related_publications: einstein1956investigations, einstein1950meaning
 ---
 
 Every project has a beautiful feature showcase page.
