@@ -8,8 +8,8 @@ children:
     - title: publications
       permalink: /publications/
     - title: divider
-    - title: teaching
-      permalink: /teaching/
+    - title: ogród wiedzy
+      permalink: quartz.skszymon.eu
     - title: divider
     - title: cv
       permalink: /cv/
