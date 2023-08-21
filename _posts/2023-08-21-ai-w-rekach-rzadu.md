@@ -18,8 +18,6 @@ toc:
 
 ## **Potęga Technologii AI: Wpływ Interwencji Rządowej w Zaawansowane Systemy AI**
 
-*Przez [Twoje Imię]*
-
 W dynamicznym świecie technologii wyróżnia się jeden głos wśród chóru insiderów branżowych i innowatorów. Charles Jennings, doświadczony weteran świata oprogramowania, spędził dziesięciolecia na czele firm zajmujących się oprogramowaniem, na własne oczy obserwując potencjał transformacyjny sztucznej inteligencji. Jego najnowsza przedsięwzięcie, technologia rozpoznawania twarzy oparta na sztucznej inteligencji, ponownie przyciągnęła uwagę opinii publicznej. Jednak jego perspektywa na przyszłość AI nie jest powszechnie słyszana w środowisku technologicznym. W inspirującej rozmowie z Stevenem Overly z POLITICO Tech, Jennings twierdzi, że najbardziej zaawansowane systemy sztucznej inteligencji stały się zbyt potężne, aby pozostawić je w prywatnych rękach. Argumentuje za zmianą równowagi władzy, sugerując, że interwencja rządowa jest niezbędnym krokiem, aby wykorzystać pełny potencjał AI.
 
 ### **Bezprecedensowa Potęga Sztucznej Inteligencji**
@@ -55,3 +53,4 @@ Wnioski Charlesa Jenningsa zachęcają do głębokiego przemyślenia przyszłoś
 W końcu to nie tylko wybór między gigantami technologicznymi a rządem. To wezwanie do zjednoczenia sił obu światów - prywatnych innowacji i publicznego zarządzania - aby kierować AI ku przyszłości, która przynosi korzyści wszystkim. Skomplikowany taniec między złożonością a dynamicznością w dziedzinie zarządzania AI jest odzwierciedleniem złożonego oddziaływania perspektyw, pomysłów i potencjalnych rozwiązań. W miarę jak rozważamy drogę naprzód, pamiętajmy, że w krajobrazie AI nawet jedno głos - choćby niekonwencjonalny - może wywołać rozmowę prowadzącą do przełomowych zmian.
 
 *Oświadczenie: Wyrażone w tym artykule opinie są wyłącznie zdaniem autora i niekoniecznie odzwierciedlają poglądy POLITICO ani żadnych powiązanych podmiotów.*
+Źródło: [POLITICO](<a href="https://politico-tech.simplecast.com/episodes/one-techs-bold-idea-ai-is-the-new-atomic-energy-nationalize-it">POLITICO</a>)
