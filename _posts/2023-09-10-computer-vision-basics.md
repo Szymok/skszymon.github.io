@@ -61,9 +61,9 @@ Pierwszym krokiem w Computer Vision jest pozyskanie danych wizualnych. To może 
 
 Następnie dane te są przetwarzane, aby usunąć szum, dostosować kontrast i jasność, a także przekształcić je na formę bardziej odpowiednią do analizy.
 
-### **3. Wykrywanie Ce
-n**
-Ten krok polega na identyfikacji obiektów lub cezur w obrazie. To może obejmować rozpoznawanie twarzy, pojazdów, znaków drogowych i innych obiektów.
+### **3. Wykrywanie obiektów**
+
+Ten krok polega na identyfikacji obiektów lub cech w obrazie. To może obejmować rozpoznawanie twarzy, pojazdów, znaków drogowych i innych obiektów.
 
 ### **4. Ekstrakcja Cech**
 
@@ -93,9 +93,7 @@ W realnym świecie obrazy są często zanieczyszczone, a obiekty są często cz�
 
 Wielu algorytmów Computer Vision wymaga ogromnych zbiorów danych treningowych, co może być kosztowne i czasochłonne.
 
-### **4. Prywatność i Bezpieczeństwo
-
-**
+### **4. Prywatność i Bezpieczeństwo**
 
 Wykorzystanie technologii Computer Vision w zastosowaniach związanych z bezpieczeństwem i prywatnością może budzić obawy dotyczące ochrony danych osobowych.
 
