@@ -6,7 +6,7 @@ description: Artykuł, który skupia sie na historii wizualizacji danych
 tags: analiza-danych narzedzia historia wizualizacje visualization edukacja 
 categories: article
 giscus_comments: true
-featured: true
+featured: false
 toc:
   sidebar: left
 ---

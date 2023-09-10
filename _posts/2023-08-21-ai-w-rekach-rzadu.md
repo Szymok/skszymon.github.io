@@ -6,7 +6,7 @@ description: Co powinny zrobić rządy w kwestii sztucznej inteligencji.
 tags: rzad sztuczna-inteligencja ai llm 
 categories: article
 giscus_comments: true
-featured: true
+featured: false
 toc:
   sidebar: left
 ---
