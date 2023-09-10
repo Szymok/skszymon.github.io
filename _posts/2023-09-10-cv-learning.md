@@ -74,9 +74,7 @@ Istnieje wiele kursów online, które pomogą Ci zdobyć zaawansowaną wiedzę z
 
 - **Coursera:** Platforma oferuje wiele kursów z Computer Vision prowadzonych przez renomowane uczelnie.
 
-- **Udacity:** Udacity oferuje programy nanodegree z Computer Vision, które pozwalają zdobyć praktyczne doświadc
-
-zenie.
+- **Udacity:** Udacity oferuje programy nanodegree z Computer Vision, które pozwalają zdobyć praktyczne doświadczenie.
 
 - **edX:** Na edX znajdziesz kursy prowadzone przez topowe uniwersytety i instytucje.
 
