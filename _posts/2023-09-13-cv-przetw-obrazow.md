@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Jak Się Uczyć Computer Vision Praktyczny Przewodnik
+title: Przetwarzanie Obrazów - Wprowadzenie
 date: 2023-09-13 08:01:45
-description: Computer Vision, od czego zacząć naukę.
-tags: computer-vision computer-vision-learn computer-vision-ai ai podstawy 
+description: Computer Vision, wprowadzenie, techniki i zastosowania.
+tags: computer-vision computer-vision-learn techniques applications 
 categories: computer-vision
 giscus_comments: true
 featured: false
