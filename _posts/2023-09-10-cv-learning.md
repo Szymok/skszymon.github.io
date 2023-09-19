@@ -6,7 +6,7 @@ description: Computer Vision, od czego zacząć naukę.
 tags: computer-vision computer-vision-learn computer-vision-ai ai podstawy 
 categories: computer-vision
 giscus_comments: true
-featured: true
+featured: false
 toc:
   sidebar: left
 ---
