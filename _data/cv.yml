@@ -32,10 +32,11 @@
       institution: Sieć piekarni Lubaszka
       year: 03.2023 - 06.2023
       description:
-        - Opracowywanie i wdrażanie przepływów danych, mając na celu optymalizację i usprawnienie procesów analitycznych w firmie.
-        - Projektowanie i implementacja dwóch aplikacji bazodanowych (ekstrakcja i transformacje danych) i aplikacji Business Intelligence w narzędziu Qlik, 
-        - Współpraca z zespołem biznesowym w celu zrozumienia ich potrzeb i dostosowania aplikacji do spełnienia konkretnych wymagań biznesowych
-        - Monitorowanie i optymalizacja wydajności baz danych oraz aplikacji, co przyczyniło się do znaczącej poprawy efektywności procesów analitycznych.
+        - Zarządzanie i rozwiązywanie nowych zgłoszeń dotyczących zmian i problemów w aplikacjach QlikView i Qlik Sense.
+        - Implementacja usprawnień w kodzie oraz w warstwie zewnętrznej aplikacji.
+        - Projektowanie, tworzenie i zarządzanie procesami ETL w SAP Data Services..
+        - Pełnienie roli administratora systemu QlikView, SAP Data Services i Qlik NPrinting, odpowiadając za zarządzanie zadaniami, dostępami oraz ogólną konserwację systemów.
+        - Współpraca z różnymi działami firmy w celu identyfikacji obszarów do usprawnienia oraz wdrażanie rozwiązań zwiększających efektywność pracy z narzędziami Qlik.
 
       institution: Pernord Ricard
       year: 07.2023-obecnie
@@ -45,6 +46,7 @@
         - Projektowanie, tworzenie i zarządzanie procesami ETL w SAP Data Services..
         - Pełnienie roli administratora systemu QlikView, SAP Data Services i Qlik NPrinting, odpowiadając za zarządzanie zadaniami, dostępami oraz ogólną konserwację systemów.
         - Współpraca z różnymi działami firmy w celu identyfikacji obszarów do usprawnienia oraz wdrażanie rozwiązań zwiększających efektywność pracy z narzędziami Qlik.
+
 
     - title: Junior Data Analyst/Engineer
       institution: No Fluff Jobs, Gdynia
