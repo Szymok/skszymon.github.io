@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Wstęp do Promptingu
+title: Iteracyjny Rozwój Promptu
 date: 2023-10-03 03:21:12
 description: 
-tags: prompt, basics, prompting, chatgpt, llm
+tags: prompt, basics, prompting, chatgpt, llm, conversation
 categories: paper
 giscus_comments: true
 featured: false
