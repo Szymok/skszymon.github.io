@@ -27,7 +27,7 @@ Podążając tą ścieżką, zrozumiemy, że iteracyjny rozwój promptu to nie t
 #### Załaduj klucz API i odpowiednie biblioteki Pythona.
 
 {::nomarkdown}
-{% assign jupyter_path = "assets/jupyter/l2-iterative.ipynb" | relative_url %}
+{% assign jupyter_path = "assets/jupyter/l3-iterative.ipynb" | relative_url %}
 {% capture notebook_exists %}{% file_exists assets/jupyter/l3-iterative.ipynb %}{% endcapture %}
 {% if notebook_exists == "true" %}
     {% jupyter_notebook jupyter_path %}
