@@ -4,7 +4,7 @@ title: Jak efektywnie czytać artykuły naukowe
 date: 2023-09-19 04:01:45
 description: Wprowadzenie w świat wiedzy - czytanie artykułów naukowych.
 tags: articles, reading, science, learning, techniques, strategies, papers, research
-categories: paper
+categories: learning
 giscus_comments: true
 featured: false
 toc:
