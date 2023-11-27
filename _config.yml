@@ -269,7 +269,7 @@ jekyll-archives:
     category: '/blog/category/:name/'
 
 display_tags: ['sztuczna inteligencja', 'data science', 'computer vision', 'news', 'AI', 'LLM'] # this tags will be dispalyed on the front page of your blog
-display_categories: ['prompt-engineering', 'article', 'computer-vision', 'article'] # these categories will be displayed on the front page of your blog
+display_categories: ['prompt-engineering', 'computer-vision', 'article'] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
