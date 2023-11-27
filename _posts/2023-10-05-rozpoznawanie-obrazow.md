@@ -3,7 +3,7 @@ layout: post
 title: Jak Działa Rozpoznawanie Obiektów w Computer Vision?
 date: 2023-10-03 03:21:12
 description: Podstawy o rozpoznawaniu obiektów
-tags: computer-vision, cv, basics, how-it-works, object-recognition
+tags: computer-vision cv basics how-it-works object-recognition
 categories: computer-vision
 giscus_comments: true
 featured: false

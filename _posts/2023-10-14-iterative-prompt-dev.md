@@ -3,7 +3,7 @@ layout: post
 title: Iteracyjny Rozwój Promptu
 date: 2023-10-14 03:21:12
 description: 
-tags: prompt, basics, prompting, chatgpt, llm, conversation
+tags: prompt basics prompting chatgpt llm conversation
 categories: prompt-engineering
 giscus_comments: true
 featured: false

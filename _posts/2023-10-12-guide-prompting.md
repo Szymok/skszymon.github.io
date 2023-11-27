@@ -3,7 +3,7 @@ layout: post
 title: Wstęp do Promptingu
 date: 2023-10-12 20:55:12
 description: Jak, dlaczego i jakich używać taktyk pisania promptów
-tags: prompt, basics, prompting, chatgpt, llm
+tags: prompt basics prompting chatgpt llm
 categories: prompt-engineering
 giscus_comments: true
 featured: false
