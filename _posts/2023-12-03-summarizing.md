@@ -2,7 +2,7 @@
 layout: post
 title: Podsumowywanie z LLM
 date: 2023-12-03 13:21:12
-description: 
+description: Jak podsumować artykuł przy pomocy LLM
 tags: prompt basics prompting chatgpt llm conversation
 categories: prompt-engineering
 giscus_comments: true
