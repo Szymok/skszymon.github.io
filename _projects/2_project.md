@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Wkrótce
+title: Arxiv Search
 description: Aplikacje do przeszukiwania API Arxiv. 
 img: assets/img/3.jpg
 redirect: https://arxiv-search-fsjwryup2nappzve9wrtaen.streamlit.app/
