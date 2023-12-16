@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Podsumowywanie z LLM
-date: 2023-12-03 03:21:12
+date: 2023-12-03 13:21:12
 description: 
 tags: prompt basics prompting chatgpt llm conversation
 categories: prompt-engineering
