@@ -23,3 +23,5 @@ Moim celem jest dokumentowanie mojej drogi do profesjonalnego `ogarniacza` danyc
 Jestem podekscytowany możliwościami wykorzystania danych do tworzenia modeli, które automatycznie uczą się i podejmują decyzje. Dla entuzjastów `sztucznej inteligencji` i `analizy danych` nie ma nic lepszego niż widzenie swoich `algorytmów` działających efektywnie i produkujących znaczące wyniki.
 
 Szukanie nowych sposobów na ulepszenie swoich modeli i zastosowań dla nich pozwala mi na ciągły `rozwój` i postęp w tej dziedzinie. W tym celu stale poszerzam swoją wiedzę i umiejętności, aby móc wykorzystać nowe narzędzia i `technologie`. 
+
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.

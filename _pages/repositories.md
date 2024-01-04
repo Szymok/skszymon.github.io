@@ -4,7 +4,7 @@ permalink: /repositories/
 title: repositories
 description: Lista repozytoriów na GitHubie, które okazują moje projekty.
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 ## GitHub users
