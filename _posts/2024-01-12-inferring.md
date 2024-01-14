@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Analiza sentymentu z LLM
-date: 2023-12-16 13:21:12
+date: 2024-01-14 02:11:12
 description: Analiza sentymentu oraz uzycie do tego celu LLM
 tags: prompt basics prompting chatgpt llm conversation
 categories: prompt-engineering
