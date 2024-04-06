@@ -55,12 +55,12 @@ Dzięki innowacjom Playfaira wizualizacja danych stała się bardziej dostępna 
 
 Poniżej znajduje się kilka przykładów wykresów, które Playfair stworzył w swojej książce "Commercial and Political Atlas". Zauważ, jak wykresy te są podobne do tych, które tworzymy dzisiaj.
 
-{% include figure.html path="assets/img/1073px-1786_Playfair_-_Exports_and_Imports_of_Scotland_to_and_from_different_parts_for_one_Year_from_Christmas_1780_to_Christmas_1781.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.liquid path="assets/img/1073px-1786_Playfair_-_Exports_and_Imports_of_Scotland_to_and_from_different_parts_for_one_Year_from_Christmas_1780_to_Christmas_1781.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
 <div class="caption">
     Na tym wykresie słupkowym przedstawiono import i eksport Szkocji z i do 17 krajów w 1781 roku. Źródło: <a href="https://en.wikipedia.org/wiki/William_Playfair#/media/File:1786_Playfair_-_Exports_and_Imports_of_Scotland_to_and_from_different_parts_for_one_Year_from_Christmas_1780_to_Christmas_1781.jpg">Wikipedia</a>  
 </div>
 
-{% include figure.html path="assets/img/Playfair-piechart.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.liquid path="assets/img/Playfair-piechart.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
 <div class="caption">
     Wykres kołowy z Playfair's Statistical Breviary (1801), pokazujący proporcje imperium tureckiego znajdującego się w Azji, Europie i Afryce przed 1789 rokiem. Źródło: <a href="https://en.wikipedia.org/wiki/William_Playfair#/media/File:Playfair-piechart.jpg">Wikipedia</a>
 </div>
@@ -81,7 +81,7 @@ Jej diagram różycy przedstawiał, że większość zgonów nie wynikała bezpo
 
 Praca Nightingale była nie tylko innowacyjna pod kątem technicznym, ale miała również długotrwałe konsekwencje dla zdrowia publicznego. Dzięki jej wizualizacjom zwrócono uwagę na istotne kwestie higieny i opieki zdrowotnej, co przyczyniło się do poprawy warunków w obozach wojskowych, a później także w innych instytucjach zdrowotnych.
 
-{% include figure.html path="assets/img/R.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.liquid path="assets/img/R.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
 <div class="caption">
     Diagram obszarowy biegunowy został wynaleziony przez Florence Nightingale, aby zobrazować skalę niepotrzebnych zgonów w brytyjskich szpitalach wojskowych podczas Wojny Krymskiej (1954-56). Źródło: <a href="https://en.wikipedia.org/wiki/Florence_Nightingale#/media/File:Diagram_of_the_causes_of_mortality_in_the_Army_in_the_East_FOLIO_I._VOL.I._Wellcome_L0000551.jpg">Wikipedia</a>
 </div>
@@ -100,7 +100,7 @@ Snow zidentyfikował źródło epidemii jako publiczną pompę wodną na Broad S
 
 Praca Snowa pomogła zmienić podejście do zdrowia publicznego i zrozumieć, jak choroby zakaźne, takie jak cholera, mogą rozprzestrzeniać się w populacji. Jego metoda używania mapy do wizualizacji danych zdrowotnych jest nadal stosowana dzisiaj, na przykład w monitorowaniu rozprzestrzeniania się wirusa COVID-19.
 
-{% include figure.html path="assets/img/88b66df5d4c7aa5216284822e6591481.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.liquid path="assets/img/88b66df5d4c7aa5216284822e6591481.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
 <div class="caption">
     Wykres pokazujący temperaturę i śmiertelność Londynu dla każdego tygodnia 11 lat, 1840-50 z Farr's Report on the 1849 epidemic. Numer WI L0039176, Wellcome Library
     Źródło: <a href="https://wellcomecollection.org/works/yp5q3q3n">Wellcome Collection</a>
@@ -116,7 +116,7 @@ Minard użył szerokości linii, aby reprezentować liczbę pozostałych sił Na
 
 Wizualizacja Minarda jest doskonałym przykładem tego, jak skomplikowane zestawy danych można przekształcić w intuicyjne obrazy, które pozwalają odbiorcy szybko zrozumieć kontekst i znaczenie prezentowanych informacji. Ta praca jest do dziś inspiracją dla specjalistów od wizualizacji danych na całym świecie.
 
-{% include figure.html path="assets/img/mapa-charles-minard.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.liquid path="assets/img/mapa-charles-minard.png" class="img-fluid rounded z-depth-1" zoomable=true %}
 <div class="caption">
     Wykres przedstawiający liczbę wojsk Napoleona w czasie kampanii rosyjskiej w 1812 roku. Źródło: <a href="https://commons.wikimedia.org/wiki/File:Minard.png">Wikimedia Commons</a>
 </div>
@@ -135,7 +135,7 @@ Wizualizacja danych zaczęła się rozwijać wraz z rozwojem technologii kompute
 
 ### Herman Hollerith: Maszyna do przetwarzania danych
 
-{% include figure.html path="assets/img/R (1).jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.liquid path="assets/img/R (1).jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
 <div class="caption">
     Maszyna do sortowania i liczenia kart perforowanych zaprojektowana przez Hermana Holleritha. Źródło: <a href="https://americanhistory.si.edu/collections/search/object/nmah_694410">National Museum of American History</a>
 </div>

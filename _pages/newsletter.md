@@ -71,5 +71,5 @@ Na zakończenie, niech nasz newsletter stanie się Twoim przewodnikiem po fascyn
 *Autor: Szymon Kowalewski*
 <hr>
 
-{% include figure.html path="assets/img/newsletter.jpg" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid path="assets/img/newsletter.jpg" class="img-fluid rounded z-depth-1" %}
 
