@@ -11,7 +11,7 @@ toc:
   sidebar: left
 ---
 
-{% include figure.html path="assets/img/supermoggy_computer_vision_in_education_94e97ddc-a0bf-4656-908e-5465fd54b2af.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.liquid path="assets/img/supermoggy_computer_vision_in_education_94e97ddc-a0bf-4656-908e-5465fd54b2af.png" class="img-fluid rounded z-depth-1" zoomable=true %}
 <div class="caption">
     Computer Vision według Midjourney
 </div>

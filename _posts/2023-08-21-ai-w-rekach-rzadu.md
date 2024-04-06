@@ -11,7 +11,7 @@ toc:
   sidebar: left
 ---
 
-{% include figure.html path="assets/img/sahilofix_America_government_garden_childrens_book_illustration_f1d1c5d1-34df-4501-a146-74024190e7ca.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.liquid path="assets/img/sahilofix_America_government_garden_childrens_book_illustration_f1d1c5d1-34df-4501-a146-74024190e7ca.png" class="img-fluid rounded z-depth-1" zoomable=true %}
 <div class="caption">
     Obraz wygenerowany przy pomocy Midjourney oraz edytowany w Photoshopie przy pomoocy funkcji Generative AI.
 </div>

@@ -11,7 +11,7 @@ toc:
   sidebar: left
 ---
 
-{% include figure.html path="assets/img/visual_nexus_abstract_non-representational_geometric_shadows_lo_391fb38d-c47c-4755-85cc-fd1604bf1264.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.liquid path="assets/img/visual_nexus_abstract_non-representational_geometric_shadows_lo_391fb38d-c47c-4755-85cc-fd1604bf1264.png" class="img-fluid rounded z-depth-1" zoomable=true %}
 <div class="caption">
     Obraz wygenerowany przy pomocy Midjourney
 </div>

@@ -11,7 +11,7 @@ toc:
   sidebar: left
 ---
 
-{% include figure.html path="assets/img/thebommel_collage_of_science_papers_and_measurements_383710fe-466e-4e7d-8218-0649915433dd.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.liquid path="assets/img/thebommel_collage_of_science_papers_and_measurements_383710fe-466e-4e7d-8218-0649915433dd.png" class="img-fluid rounded z-depth-1" zoomable=true %}
 <div class="caption">
     Obraz wygenerowany przy pomocy Midjourney
 </div>

@@ -11,7 +11,7 @@ toc:
   sidebar: left
 ---
 
-{% include figure.html path="assets/img/cheryl8555_learning_through_traditional_education_settings_whil_4d9cc9f9-62e3-4494-85b1-c62cf17e488f.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.liquid path="assets/img/cheryl8555_learning_through_traditional_education_settings_whil_4d9cc9f9-62e3-4494-85b1-c62cf17e488f.png" class="img-fluid rounded z-depth-1" zoomable=true %}
 <div class="caption">
     Obraz wygenerowany przy pomocy Midjourney
 </div>

@@ -10,7 +10,7 @@ featured: false
 toc:
   sidebar: left
 ---
-{% include figure.html path="assets/img/History-of-Data-Visualization-11.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.liquid path="assets/img/History-of-Data-Visualization-11.png" class="img-fluid rounded z-depth-1" zoomable=true %}
 <div class="caption">
     Diagram nawiązujący do wizualizacji danych i historii.  Źródło: <a href="https://www.researchgate.net/publication/221027352_Data_Mining_and_Data_Visualization" target="_blank">ResearchGate</a>
 </div>

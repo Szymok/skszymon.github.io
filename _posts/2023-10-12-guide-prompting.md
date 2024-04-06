@@ -10,7 +10,7 @@ featured: false
 toc:
   sidebar: left
 ---
-{% include figure.html path="assets/img/F7iibfCWwAAikHc.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.liquid path="assets/img/F7iibfCWwAAikHc.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
 <div class="caption">
     Obraz wygenerowany przy pomocy Midjourney
 </div>
