@@ -9,7 +9,7 @@ children:
       permalink: /publications/
     - title: divider
     - title: ogród wiedzy
-      permalink: http://quartz.skszymon.eu
+      permalink: http://www.quartz.skszymon.eu
     - title: divider
     - title: cv
       permalink: /cv/
