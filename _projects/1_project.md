@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Article News Summarizer
-description: Wykorzystanie biblioteki Newspaper3k do wyodrębniania tekstu z linków do artykułów i podsumowywania ich za pomocą wstępnie wyszkolonych modeli podsumowania Hugging Face. Do tegostworzyłem prosty interfejs użytkownika w Gradio, dzięki czemu każdy może uzyskać podsumowania artykułów tylko za pomocą adresu URL."
+description: Wykorzystanie biblioteki Newspaper3k do wyodrębniania tekstu z linków do artykułów i podsumowywania ich za pomocą wstępnie wyszkolonych modeli podsumowania Hugging Face. Do tegostworzyłem prosty interfejs użytkownika w Gradio, dzięki czemu każdy może uzyskać podsumowania artykułów tylko za pomocą adresu URL.
 img: assets/img/0_m3ATEhrHMV9pHkdi.jpg
 redirect: https://9a54478e004899caf2.gradio.live
 importance: 1
