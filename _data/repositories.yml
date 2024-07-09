@@ -1,5 +1,8 @@
 github_users:
-  - Szymok
+  - torvalds
+  - alshedivat
+
+repo_description_lines_max: 2
 
 github_repos:
   - Szymok/etl-log-activity

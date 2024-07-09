@@ -100,6 +100,7 @@
   "volunteer": [
     {
       "organization": "L!der",
+      "location": "Zurich, Switzerland",
       "position": "Członek",
       "url": "",
       "startDate": "2019-10-01",
@@ -137,25 +138,39 @@
   ],
   "certificates": [
     {
-      "name": "AI Devs",
-      "date": "2024-01-10",
-      "issuer": "AI Devs",
-      "url": "",
+      "name": "Machine Learning",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "name": "Quantum Computing",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-tag"
+    },
+    {
+      "name": "Quantum Information",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-envelope"
+    },
+    {
+      "name": "Quantum Cryptography",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
       "icon": "fa-solid fa-hashtag"
     },
     {
-      "name": "SQL zaawansowany",
-      "date": "2023-06-01",
-      "issuer": "KursySQLKursySQL",
-      "url": "",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Practice ML",
-      "date": "2020-07-20",
-      "issuer": "Dataworkshop",
-      "url": "",
-      "icon": "fa-solid fa-hashtag"
+      "name": "Quantum Communication",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-calendar"
     },
     {
       "name": "Natural Language Processing",
