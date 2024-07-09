@@ -3,7 +3,7 @@ layout: post
 title: Rząd a AI 
 date: 2023-08-21 05:12:45
 description: Co powinny zrobić rządy w kwestii sztucznej inteligencji.
-tags: rzad sztuczna-inteligencja ai llm 
+tags: rzad sztuczna-inteligencja llm 
 categories: article
 giscus_comments: true
 featured: false

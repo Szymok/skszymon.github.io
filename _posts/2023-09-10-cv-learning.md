@@ -3,7 +3,7 @@ layout: post
 title: Jak Się Uczyć Computer Vision Praktyczny Przewodnik
 date: 2023-09-10 12:12:45
 description: Computer Vision, od czego zacząć naukę.
-tags: computer-vision computer-vision-learn computer-vision-ai ai podstawy 
+tags: computer-vision computer-vision-learn computer-vision-ai podstawy 
 categories: computer-vision
 giscus_comments: true
 featured: false

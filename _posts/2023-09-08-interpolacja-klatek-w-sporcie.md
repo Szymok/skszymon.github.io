@@ -3,7 +3,7 @@ layout: post
 title: SportsSloMo - Nowość w branży analizy sportowej!
 date: 2023-09-08 00:12:45
 description: Nowa technologia(benchmark) w branży analizy sportowej.
-tags: sportsloMo sportsloMo-ai ai benchmark interpolacja sport 
+tags: sportsloMo sportsloMo-ai benchmark interpolacja sport 
 categories: computer-vision
 giscus_comments: true
 featured: true

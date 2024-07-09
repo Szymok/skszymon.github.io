@@ -3,7 +3,7 @@ layout: post
 title: Computer Vision - o co w tym chodzi?
 date: 2023-09-10 12:12:45
 description: Computer Vision, podstawy, które warto znać.
-tags: computer-vision computer-vision-basics computer-vision-ai ai podstawy 
+tags: computer-vision computer-vision-basics computer-vision-ai podstawy 
 categories: computer-vision
 giscus_comments: true
 featured: true
