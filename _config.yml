@@ -8,12 +8,12 @@ middle_name:
 last_name: Kowalewski
 email: szymonkowal019@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Blog o computer vision i ogólnie rozumianej sztucznej inteligencji. To kluczowe narzędzia wspierające decyzje biznesowe i pozwalające na uzyskanie przewagi konkurencyjnej.
+  Blog o ogólnie rozumianej sztucznej inteligencji i nie tylko. To kluczowe narzędzia wspierające decyzje biznesowe i pozwalające na uzyskanie przewagi konkurencyjnej.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/Szymok/Szymok.github.io">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: portfolio-website, blog, news  # add your own keywords or leave empty
+keywords: ai, prompt, news, llm  # add your own keywords or leave empty
 cv_pdf: assets/pdf/cv_pl_it_s_kowalewski.pdf
 lang: pl # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -75,7 +75,7 @@ blogger_url: # your blogger URL
 bluesky_url: # your bluesky URL
 discord_id: # your discord id (18-digit unique numerical identifier)
 flickr_id: # your flickr id
-github_username: # your GitHub user name
+github_username: Szymok # your GitHub user name
 gitlab_username: # your GitLab user name
 X_username: SkSzymon
 mastodon_username: me.dm/@SkSzymon # your mastodon instance+username in the format instance.tld/@username
