@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wstęp do Data Governance
-date: 2024-08-21 21:55:00
+date: 2024-08-21 21:55:10
 description: Początek serii postów na temat Data Governance.
 tags: data-governance data-management data-quality data-privacy data-security data-stewardship data-technology
 categories: data-governance
