@@ -72,13 +72,13 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 acm_id: # your dl.acm.org/profile/id
 blogger_url: # your blogger URL
-bluesky_url: # your bluesky URL
+bluesky_url: skszymon.bsky.social
 discord_id: # your discord id (18-digit unique numerical identifier)
 flickr_id: # your flickr id
 github_username: Szymok # your GitHub user name
 gitlab_username: # your GitLab user name
 X_username: SkSzymon
-mastodon_username: me.dm/@SkSzymon # your mastodon instance+username in the format instance.tld/@username
+mastodon_username: mastodon.social/@skszymon # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: skszymon
 orcid_id: # your ORCID ID
 medium_username: szymonkowal019
